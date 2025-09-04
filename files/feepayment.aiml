@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<category intent="FeePayment">
+  <pattern>HOW TO PAY</pattern>
+  <template>For guide on payment of fees, please refer to https://www.tarc.edu.my/bursary/guidelines-on-payment-of-fees/.</template>
+</category>
+
+<category intent="FeePayment">
+  <pattern>WHAT ARE THE PAYMENT OPTIONS</pattern>
+  <template>For guide on payment of fees, please refer to https://www.tarc.edu.my/bursary/guidelines-on-payment-of-fees/.</template>
+</category>
+
+<category intent="FeePayment">
+  <pattern>PAYMENT METHODS</pattern>
+  <template>For guide on payment of fees, please refer to https://www.tarc.edu.my/bursary/guidelines-on-payment-of-fees/.</template>
+</category>
+
+<category intent="FeePayment">
+  <pattern>WAYS TO PAY FEES</pattern>
+  <template>For guide on payment of fees, please refer to https://www.tarc.edu.my/bursary/guidelines-on-payment-of-fees/.</template>
+</category>
+
+<category intent="FeePayment">
+  <pattern>HOW DO I MAKE PAYMENT</pattern>
+  <template>For guide on payment of fees, please refer to https://www.tarc.edu.my/bursary/guidelines-on-payment-of-fees/.</template>
+</category>
+
+<category intent="FeePayment">
+  <pattern>TUITION FEE PAYMENT</pattern>
+  <template>For guide on payment of fees, please refer to https://www.tarc.edu.my/bursary/guidelines-on-payment-of-fees/.</template>
+</category>
+
+<category intent="FeePayment">
+  <pattern>MODE OF PAYMENT</pattern>
+  <template>For guide on payment of fees, please refer to https://www.tarc.edu.my/bursary/guidelines-on-payment-of-fees/.</template>
+</category>
+
+<category intent="FeePayment">
+  <pattern>HOW TO SETTLE FEES</pattern>
+  <template>For guide on payment of fees, please refer to https://www.tarc.edu.my/bursary/guidelines-on-payment-of-fees/.</template>
+</category>
+
+<category intent="FeePayment">
+  <pattern>PAY FEES GUIDE</pattern>
+  <template>For guide on payment of fees, please refer to https://www.tarc.edu.my/bursary/guidelines-on-payment-of-fees/.</template>
+</category>
+
+<category intent="FeePayment">
+  <pattern>PAYMENT PROCESS</pattern>
+  <template>For guide on payment of fees, please refer to https://www.tarc.edu.my/bursary/guidelines-on-payment-of-fees/.</template>
+</category>
+
+</aiml>

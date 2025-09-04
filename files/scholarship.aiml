@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+
+  <category>
+    <pattern>SCHOLARSHIP</pattern>
+    <template>Many government scholarships are supported by our university. For details and updates visit &lt;a target="_blank" href="(SCHOLARSHIP DETAILS LINK)"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>IS SCHOLARSHIP AVAILABLE</pattern>
+    <template>Many government scholarships are supported by our university. For details and updates visit &lt;a target="_blank" href="(SCHOLARSHIP DETAILS LINK)"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>SCHOLARSHIP ENGINEERING</pattern>
+    <template>Many government scholarships are supported by our university. For details and updates visit &lt;a target="_blank" href="(SCHOLARSHIP DETAILS LINK)"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>SCHOLARSHIP IT</pattern>
+    <template>Many government scholarships are supported by our university. For details and updates visit &lt;a target="_blank" href="(SCHOLARSHIP DETAILS LINK)"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>SCHOLARSHIP CE</pattern>
+    <template>Many government scholarships are supported by our university. For details and updates visit &lt;a target="_blank" href="(SCHOLARSHIP DETAILS LINK)"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>SCHOLARSHIP MECHANICAL</pattern>
+    <template>Many government scholarships are supported by our university. For details and updates visit &lt;a target="_blank" href="(SCHOLARSHIP DETAILS LINK)"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>SCHOLARSHIP CIVIL</pattern>
+    <template>Many government scholarships are supported by our university. For details and updates visit &lt;a target="_blank" href="(SCHOLARSHIP DETAILS LINK)"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>SCHOLARSHIP CHEMICAL</pattern>
+    <template>Many government scholarships are supported by our university. For details and updates visit &lt;a target="_blank" href="(SCHOLARSHIP DETAILS LINK)"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>SCHOLARSHIP FOR AI/ML</pattern>
+    <template>Many government scholarships are supported by our university. For details and updates visit &lt;a target="_blank" href="(SCHOLARSHIP DETAILS LINK)"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>AVAILABLE SCHOLARSHIPS</pattern>
+    <template>Many government scholarships are supported by our university. For details and updates visit &lt;a target="_blank" href="(SCHOLARSHIP DETAILS LINK)"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>SCHOLARSHIP FOR COMPUTER ENGINEERING</pattern>
+    <template>Many government scholarships are supported by our university. For details and updates visit &lt;a target="_blank" href="(SCHOLARSHIP DETAILS LINK)"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>SCHOLARSHIP FOR IT ENGINEERING</pattern>
+    <template>Many government scholarships are supported by our university. For details and updates visit &lt;a target="_blank" href="(SCHOLARSHIP DETAILS LINK)"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>SCHOLARSHIP FOR MECHANICAL ENGINEERING</pattern>
+    <template>Many government scholarships are supported by our university. For details and updates visit &lt;a target="_blank" href="(SCHOLARSHIP DETAILS LINK)"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>SCHOLARSHIP FOR CIVIL ENGINEERING</pattern>
+    <template>Many government scholarships are supported by our university. For details and updates visit &lt;a target="_blank" href="(SCHOLARSHIP DETAILS LINK)"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>SCHOLARSHIP FOR CHEMICAL ENGINEERING</pattern>
+    <template>Many government scholarships are supported by our university. For details and updates visit &lt;a target="_blank" href="(SCHOLARSHIP DETAILS LINK)"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>LIST OF SCHOLARSHIP</pattern>
+    <template>Many government scholarships are supported by our university. For details and updates visit &lt;a target="_blank" href="(SCHOLARSHIP DETAILS LINK)"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>COMPS SCHOLARSHIP</pattern>
+    <template>Many government scholarships are supported by our university. For details and updates visit &lt;a target="_blank" href="(SCHOLARSHIP DETAILS LINK)"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>IT SCHOLARSHIP</pattern>
+    <template>Many government scholarships are supported by our university. For details and updates visit &lt;a target="_blank" href="(SCHOLARSHIP DETAILS LINK)"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>MECHANICAL SCHOLARSHIP</pattern>
+    <template>Many government scholarships are supported by our university. For details and updates visit &lt;a target="_blank" href="(SCHOLARSHIP DETAILS LINK)"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>CIVIL SCHOLARSHIP</pattern>
+    <template>Many government scholarships are supported by our university. For details and updates visit &lt;a target="_blank" href="(SCHOLARSHIP DETAILS LINK)"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>CHEMICAL SCHOLARSHIP</pattern>
+    <template>Many government scholarships are supported by our university. For details and updates visit &lt;a target="_blank" href="(SCHOLARSHIP DETAILS LINK)"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>AUTOMOBILE SCHOLARSHIP</pattern>
+    <template>Many government scholarships are supported by our university. For details and updates visit &lt;a target="_blank" href="(SCHOLARSHIP DETAILS LINK)"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>FIRST YEAR SCHOLARSHIP</pattern>
+    <template>Many government scholarships are supported by our university. For details and updates visit &lt;a target="_blank" href="(SCHOLARSHIP DETAILS LINK)"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>SECOND YEAR SCHOLARSHIP</pattern>
+    <template>Many government scholarships are supported by our university. For details and updates visit &lt;a target="_blank" href="(SCHOLARSHIP DETAILS LINK)"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>THIRD YEAR SCHOLARSHIP</pattern>
+    <template>Many government scholarships are supported by our university. For details and updates visit &lt;a target="_blank" href="(SCHOLARSHIP DETAILS LINK)"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>FOURTH YEAR SCHOLARSHIP</pattern>
+    <template>Many government scholarships are supported by our university. For details and updates visit &lt;a target="_blank" href="(SCHOLARSHIP DETAILS LINK)"&gt;here&lt;/a&gt;</template>
+  </category>
+
+</aiml>

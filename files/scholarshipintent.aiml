@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <category intent="scholarship">
+    <pattern>ANY SCHOLARSHIP</pattern>
+    <template>For information on financial aid (e.g. grants, scholarships, study loans, PTPTN etc), please visit this (link: https://www.tarc.edu.my/dsa/financial-aid/financial-aid/)</template>
+  </category>
+
+  <category intent="scholarship">
+    <pattern>SCHOLARSHIPS AVAILABLE</pattern>
+    <template>For information on financial aid (e.g. grants, scholarships, study loans, PTPTN etc), please visit this (link: https://www.tarc.edu.my/dsa/financial-aid/financial-aid/)</template>
+  </category>
+
+  <category intent="scholarship">
+    <pattern>FINANCIAL AID OPTIONS</pattern>
+    <template>For information on financial aid (e.g. grants, scholarships, study loans, PTPTN etc), please visit this (link: https://www.tarc.edu.my/dsa/financial-aid/financial-aid/)</template>
+  </category>
+
+  <category intent="scholarship">
+    <pattern>DO YOU HAVE SCHOLARSHIPS</pattern>
+    <template>For information on financial aid (e.g. grants, scholarships, study loans, PTPTN etc), please visit this (link: https://www.tarc.edu.my/dsa/financial-aid/financial-aid/)</template>
+  </category>
+
+  <category intent="scholarship">
+    <pattern>IS THERE PTPTN</pattern>
+    <template>For information on financial aid (e.g. grants, scholarships, study loans, PTPTN etc), please visit this (link: https://www.tarc.edu.my/dsa/financial-aid/financial-aid/)</template>
+  </category>
+
+  <category intent="scholarship">
+    <pattern>FUNDING OPTIONS</pattern>
+    <template>For information on financial aid (e.g. grants, scholarships, study loans, PTPTN etc), please visit this (link: https://www.tarc.edu.my/dsa/financial-aid/financial-aid/)</template>
+  </category>
+
+  <category intent="scholarship">
+    <pattern>SCHOLARSHIP GUIDE</pattern>
+    <template>For information on financial aid (e.g. grants, scholarships, study loans, PTPTN etc), please visit this (link: https://www.tarc.edu.my/dsa/financial-aid/financial-aid/)</template>
+  </category>
+
+  <category intent="scholarship">
+    <pattern>STUDY LOAN AVAILABLE</pattern>
+    <template>For information on financial aid (e.g. grants, scholarships, study loans, PTPTN etc), please visit this (link: https://www.tarc.edu.my/dsa/financial-aid/financial-aid/)</template>
+  </category>
+
+  <category intent="scholarship">
+    <pattern>ARE THERE GRANTS</pattern>
+    <template>For information on financial aid (e.g. grants, scholarships, study loans, PTPTN etc), please visit this (link: https://www.tarc.edu.my/dsa/financial-aid/financial-aid/)</template>
+  </category>
+
+  <category intent="scholarship">
+    <pattern>FINANCIAL HELP</pattern>
+    <template>For information on financial aid (e.g. grants, scholarships, study loans, PTPTN etc), please visit this (link: https://www.tarc.edu.my/dsa/financial-aid/financial-aid/)</template>
+  </category>
+
+
+</aiml>

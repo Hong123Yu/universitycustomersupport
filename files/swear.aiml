@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <!-- SWEAR TAG -->
+  <category>
+    <pattern>FUCK</pattern>
+    <template>
+      <random>
+        <li>please use appropriate language</li>
+        <li>Maintaining decency would be appreciated</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>BITCH</pattern>
+    <template>
+      <random>
+        <li>please use appropriate language</li>
+        <li>Maintaining decency would be appreciated</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>SHUT UP</pattern>
+    <template>
+      <random>
+        <li>please use appropriate language</li>
+        <li>Maintaining decency would be appreciated</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>HELL</pattern>
+    <template>
+      <random>
+        <li>please use appropriate language</li>
+        <li>Maintaining decency would be appreciated</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>STUPID</pattern>
+    <template>
+      <random>
+        <li>please use appropriate language</li>
+        <li>Maintaining decency would be appreciated</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>IDIOT</pattern>
+    <template>
+      <random>
+        <li>please use appropriate language</li>
+        <li>Maintaining decency would be appreciated</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>DUMB ASS</pattern>
+    <template>
+      <random>
+        <li>please use appropriate language</li>
+        <li>Maintaining decency would be appreciated</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>ASSHOLE</pattern>
+    <template>
+      <random>
+        <li>please use appropriate language</li>
+        <li>Maintaining decency would be appreciated</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>FUCKER</pattern>
+    <template>
+      <random>
+        <li>please use appropriate language</li>
+        <li>Maintaining decency would be appreciated</li>
+      </random>
+    </template>
+  </category>
+
+</aiml>

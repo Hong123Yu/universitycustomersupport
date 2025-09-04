@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category intent="CampusBranches">
+  <pattern>HOW MANY TARUMT CAMPUSES ARE THERE</pattern>
+  <template>TAR UMT has 6 campuses; Kuala Lumpur, Penang, Perak, Johor, Pahang and Sabah.</template>
+</category>
+
+<category intent="CampusBranches">
+  <pattern>NUMBER OF TARUMT CAMPUSES</pattern>
+  <template>TAR UMT has 6 campuses; Kuala Lumpur, Penang, Perak, Johor, Pahang and Sabah.</template>
+</category>
+
+<category intent="CampusBranches">
+  <pattern>LIST TARUMT BRANCHES</pattern>
+  <template>TAR UMT has 6 campuses; Kuala Lumpur, Penang, Perak, Johor, Pahang and Sabah.</template>
+</category>
+
+<category intent="CampusBranches">
+  <pattern>WHERE ARE THE CAMPUSES</pattern>
+  <template>TAR UMT has 6 campuses; Kuala Lumpur, Penang, Perak, Johor, Pahang and Sabah.</template>
+</category>
+
+<category intent="CampusBranches">
+  <pattern>CAMPUSES LOCATION</pattern>
+  <template>TAR UMT has 6 campuses; Kuala Lumpur, Penang, Perak, Johor, Pahang and Sabah.</template>
+</category>
+
+<category intent="CampusBranches">
+  <pattern>UNIVERSITY BRANCHES</pattern>
+  <template>TAR UMT has 6 campuses; Kuala Lumpur, Penang, Perak, Johor, Pahang and Sabah.</template>
+</category>
+
+<category intent="CampusBranches">
+  <pattern>TARUMT BRANCHES IN MALAYSIA</pattern>
+  <template>TAR UMT has 6 campuses; Kuala Lumpur, Penang, Perak, Johor, Pahang and Sabah.</template>
+</category>
+
+<category intent="CampusBranches">
+  <pattern>CAMPUS LIST</pattern>
+  <template>TAR UMT has 6 campuses; Kuala Lumpur, Penang, Perak, Johor, Pahang and Sabah.</template>
+</category>
+
+<category intent="CampusBranches">
+  <pattern>DIFFERENT CAMPUSES</pattern>
+  <template>TAR UMT has 6 campuses; Kuala Lumpur, Penang, Perak, Johor, Pahang and Sabah.</template>
+</category>
+
+<category intent="CampusBranches">
+  <pattern>LOCATIONS OF TARUMT</pattern>
+  <template>TAR UMT has 6 campuses; Kuala Lumpur, Penang, Perak, Johor, Pahang and Sabah.</template>
+</category>
+
+</aiml>

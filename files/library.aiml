@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <!-- LIBRARY TAG -->
+  <category>
+    <pattern>IS THERE ANY LIBRARY</pattern>
+    <template>There is one huge and spacious library. timings are 8am to 6pm and for more visit &lt;a target="blank" href="ADD LIBRARY DETAIL LINK"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>LIBRARY FACILITY</pattern>
+    <template>There is one huge and spacious library. timings are 8am to 6pm and for more visit &lt;a target="blank" href="ADD LIBRARY DETAIL LINK"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>LIBRARY FACILITIES</pattern>
+    <template>There is one huge and spacious library. timings are 8am to 6pm and for more visit &lt;a target="blank" href="ADD LIBRARY DETAIL LINK"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>DO YOU HAVE LIBRARY</pattern>
+    <template>There is one huge and spacious library. timings are 8am to 6pm and for more visit &lt;a target="blank" href="ADD LIBRARY DETAIL LINK"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>DOES THE COLLEGE HAVE LIBRARY FACILITY</pattern>
+    <template>There is one huge and spacious library. timings are 8am to 6pm and for more visit &lt;a target="blank" href="ADD LIBRARY DETAIL LINK"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>COLLEGE LIBRARY</pattern>
+    <template>There is one huge and spacious library. timings are 8am to 6pm and for more visit &lt;a target="blank" href="ADD LIBRARY DETAIL LINK"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>WHERE CAN I GET BOOKS</pattern>
+    <template>There is one huge and spacious library. timings are 8am to 6pm and for more visit &lt;a target="blank" href="ADD LIBRARY DETAIL LINK"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>BOOK FACILITY</pattern>
+    <template>There is one huge and spacious library. timings are 8am to 6pm and for more visit &lt;a target="blank" href="ADD LIBRARY DETAIL LINK"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>WHERE IS LIBRARY</pattern>
+    <template>There is one huge and spacious library. timings are 8am to 6pm and for more visit &lt;a target="blank" href="ADD LIBRARY DETAIL LINK"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>LIBRARY</pattern>
+    <template>There is one huge and spacious library. timings are 8am to 6pm and for more visit &lt;a target="blank" href="ADD LIBRARY DETAIL LINK"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>LIBRARY INFORMATION</pattern>
+    <template>There is one huge and spacious library. timings are 8am to 6pm and for more visit &lt;a target="blank" href="ADD LIBRARY DETAIL LINK"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>LIBRARY BOOKS INFORMATION</pattern>
+    <template>There is one huge and spacious library. timings are 8am to 6pm and for more visit &lt;a target="blank" href="ADD LIBRARY DETAIL LINK"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>TELL ME ABOUT LIBRARY</pattern>
+    <template>There is one huge and spacious library. timings are 8am to 6pm and for more visit &lt;a target="blank" href="ADD LIBRARY DETAIL LINK"&gt;here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>HOW MANY LIBRARIES</pattern>
+    <template>There is one huge and spacious library. timings are 8am to 6pm and for more visit &lt;a target="blank" href="ADD LIBRARY DETAIL LINK"&gt;here&lt;/a&gt;</template>
+  </category>
+
+</aiml>

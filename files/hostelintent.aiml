@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <category intent="Hostel">
+    <pattern>HOW TO APPLY FOR HOSTEL ACCOMMODATION?</pattern>
+    <template>You must be a registered student to apply for hostel accommodation. Please click here for more information: https://www.tarc.edu.my/dsa/a/accommodation/accommodation-kl-main-campus/</template>
+  </category>
+
+  <category intent="Hostel">
+    <pattern>HOSTEL APPLICATION PROCESS?</pattern>
+    <template>You must be a registered student to apply for hostel accommodation. Please click here for more information: https://www.tarc.edu.my/dsa/a/accommodation/accommodation-kl-main-campus/</template>
+  </category>
+
+  <category intent="Hostel">
+    <pattern>APPLY FOR DORMITORY?</pattern>
+    <template>You must be a registered student to apply for hostel accommodation. Please click here for more information: https://www.tarc.edu.my/dsa/a/accommodation/accommodation-kl-main-campus/</template>
+  </category>
+
+  <category intent="Hostel">
+    <pattern>HOW TO GET HOSTEL?</pattern>
+    <template>You must be a registered student to apply for hostel accommodation. Please click here for more information: https://www.tarc.edu.my/dsa/a/accommodation/accommodation-kl-main-campus/</template>
+  </category>
+
+  <category intent="Hostel">
+    <pattern>CAN I STAY IN HOSTEL?</pattern>
+    <template>You must be a registered student to apply for hostel accommodation. Please click here for more information: https://www.tarc.edu.my/dsa/a/accommodation/accommodation-kl-main-campus/</template>
+  </category>
+
+  <category intent="Hostel">
+    <pattern>HOSTEL BOOKING?</pattern>
+    <template>You must be a registered student to apply for hostel accommodation. Please click here for more information: https://www.tarc.edu.my/dsa/a/accommodation/accommodation-kl-main-campus/</template>
+  </category>
+
+  <category intent="Hostel">
+    <pattern>ACCOMMODATION REQUEST?</pattern>
+    <template>You must be a registered student to apply for hostel accommodation. Please click here for more information: https://www.tarc.edu.my/dsa/a/accommodation/accommodation-kl-main-campus/</template>
+  </category>
+
+  <category intent="Hostel">
+    <pattern>DORM APPLICATION?</pattern>
+    <template>You must be a registered student to apply for hostel accommodation. Please click here for more information: https://www.tarc.edu.my/dsa/a/accommodation/accommodation-kl-main-campus/</template>
+  </category>
+
+  <category intent="Hostel">
+    <pattern>STUDENT HOUSING?</pattern>
+    <template>You must be a registered student to apply for hostel accommodation. Please click here for more information: https://www.tarc.edu.my/dsa/a/accommodation/accommodation-kl-main-campus/</template>
+  </category>
+
+  <category intent="Hostel">
+    <pattern>HOW TO STAY IN HOSTEL?</pattern>
+    <template>You must be a registered student to apply for hostel accommodation. Please click here for more information: https://www.tarc.edu.my/dsa/a/accommodation/accommodation-kl-main-campus/</template>
+  </category>
+
+
+</aiml>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <!-- EXTC HOD TAG -->
+  <category>
+    <pattern>WHO IS EXTC HOD</pattern>
+    <template>Different school wise hod are different.So be more clear with your school or department</template>
+  </category>
+
+  <category>
+    <pattern>WHERE IS EXTC HOD</pattern>
+    <template>Different school wise hod are different.So be more clear with your school or department</template>
+  </category>
+
+  <category>
+    <pattern>EXTC HOD</pattern>
+    <template>Different school wise hod are different.So be more clear with your school or department</template>
+  </category>
+
+  <category>
+    <pattern>NAME OF EXTC HOD</pattern>
+    <template>Different school wise hod are different.So be more clear with your school or department</template>
+  </category>
+
+</aiml>

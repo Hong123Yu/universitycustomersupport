@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <!-- RAGGING TAG -->
+  <category>
+    <pattern>RAGGING</pattern>
+    <template>
+      We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging
+    </template>
+  </category>
+
+  <category>
+    <pattern>IS RAGGING PRACTICE ACTIVE IN COLLEGE</pattern>
+    <template>
+      We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging
+    </template>
+  </category>
+
+  <category>
+    <pattern>DOES COLLEGE HAVE ANY ANTIRAGGING FACILITY</pattern>
+    <template>
+      We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging
+    </template>
+  </category>
+
+  <category>
+    <pattern>IS THERE ANY RAGGING CASES</pattern>
+    <template>
+      We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging
+    </template>
+  </category>
+
+  <category>
+    <pattern>IS RAGGING DONE HERE</pattern>
+    <template>
+      We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging
+    </template>
+  </category>
+
+  <category>
+    <pattern>RAGGING AGAINST</pattern>
+    <template>
+      We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging
+    </template>
+  </category>
+
+  <category>
+    <pattern>ANTIRAGGING FACILITY</pattern>
+    <template>
+      We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging
+    </template>
+  </category>
+
+  <category>
+    <pattern>RAGGING JUNIORS</pattern>
+    <template>
+      We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging
+    </template>
+  </category>
+
+  <category>
+    <pattern>RAGGING HISTORY</pattern>
+    <template>
+      We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging
+    </template>
+  </category>
+
+  <category>
+    <pattern>RAGGING INCIDENTS</pattern>
+    <template>
+      We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging
+    </template>
+  </category>
+
+</aiml>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <!-- CANTEEN TAG -->
+  <category>
+    <pattern>FOOD FACILITIES</pattern>
+    <template>Our university has canteen with variety of food available</template>
+  </category>
+
+  <category>
+    <pattern>CANTEEN FACILITIES</pattern>
+    <template>Our university has canteen with variety of food available</template>
+  </category>
+
+  <category>
+    <pattern>CANTEEN FACILITY</pattern>
+    <template>Our university has canteen with variety of food available</template>
+  </category>
+
+  <category>
+    <pattern>IS THERE ANY CANTEEN</pattern>
+    <template>Our university has canteen with variety of food available</template>
+  </category>
+
+  <category>
+    <pattern>IS THERE A CAFETARIA IN COLLEGE</pattern>
+    <template>Our university has canteen with variety of food available</template>
+  </category>
+
+  <category>
+    <pattern>DOES COLLEGE HAVE CANTEEN</pattern>
+    <template>Our university has canteen with variety of food available</template>
+  </category>
+
+  <category>
+    <pattern>WHERE IS CANTEEN</pattern>
+    <template>Our university has canteen with variety of food available</template>
+  </category>
+
+  <category>
+    <pattern>WHERE IS CAFETARIA</pattern>
+    <template>Our university has canteen with variety of food available</template>
+  </category>
+
+  <category>
+    <pattern>CANTEEN</pattern>
+    <template>Our university has canteen with variety of food available</template>
+  </category>
+
+  <category>
+    <pattern>FOOD</pattern>
+    <template>Our university has canteen with variety of food available</template>
+  </category>
+
+  <category>
+    <pattern>CAFETARIA</pattern>
+    <template>Our university has canteen with variety of food available</template>
+  </category>
+
+</aiml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <category>
+    <pattern>WHAT IS THE NAME OF PRINCIPAL</pattern>
+    <template>XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate</template>
+  </category>
+
+  <category>
+    <pattern>WHAT IS THE PRINCIPAL NAME</pattern>
+    <template>XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate</template>
+  </category>
+
+  <category>
+    <pattern>PRINCIPAL NAME</pattern>
+    <template>XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate</template>
+  </category>
+
+  <category>
+    <pattern>WHO IS COLLEGE PRINCIPAL</pattern>
+    <template>XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate</template>
+  </category>
+
+  <category>
+    <pattern>WHERE IS PRINCIPAL'S OFFICE</pattern>
+    <template>XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate</template>
+  </category>
+
+  <category>
+    <pattern>PRINCIPAL</pattern>
+    <template>XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate</template>
+  </category>
+
+  <category>
+    <pattern>NAME OF PRINCIPAL</pattern>
+    <template>XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate</template>
+  </category>
+
+</aiml>

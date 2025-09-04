@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <!-- UNIFORM TAG -->
+  <category>
+    <pattern>COLLEGE DRESS CODE</pattern>
+    <template>ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER</template>
+  </category>
+
+  <category>
+    <pattern>COLLEGE DRESSCODE</pattern>
+    <template>ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER</template>
+  </category>
+
+  <category>
+    <pattern>WHAT IS THE UNIFORM</pattern>
+    <template>ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER</template>
+  </category>
+
+  <category>
+    <pattern>CAN WE WEAR CASUALS</pattern>
+    <template>ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER</template>
+  </category>
+
+  <category>
+    <pattern>DOES COLLEGE HAVE AN UNIFORM</pattern>
+    <template>ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER</template>
+  </category>
+
+  <category>
+    <pattern>IS THERE ANY UNIFORM</pattern>
+    <template>ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER</template>
+  </category>
+
+  <category>
+    <pattern>UNIFORM</pattern>
+    <template>ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER</template>
+  </category>
+
+  <category>
+    <pattern>WHAT ABOUT UNIFORM</pattern>
+    <template>ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER</template>
+  </category>
+
+  <category>
+    <pattern>DO WE HAVE TO WEAR UNIFORM</pattern>
+    <template>ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER</template>
+  </category>
+
+</aiml>

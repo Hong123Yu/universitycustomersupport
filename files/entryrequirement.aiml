@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category intent="EntryRequirement">
+  <pattern>WHAT IS THE ENTRY REQUIREMENT</pattern>
+  <template>The general minimum entry requirements are as follows:-<br/>
+Foundation<br/>
+SPM with 5 credits / O Level with 5 Grade C / UEC with 3 Grade B or equivalent qualification<br/>
+Diploma<br/>
+SPM with 3 credits / O Level with 3 Grade C / UEC with 3 Grade B or equivalent qualification<br/>
+Bachelor Degree<br/>
+STPM with 2 principal pass / A Level with 2 Grade D / UEC with 5 Grade B or equivalent qualification</template>
+</category>
+
+<category intent="EntryRequirement">
+  <pattern>MINIMUM QUALIFICATION NEEDED</pattern>
+  <template>The general minimum entry requirements are as follows:-<br/>
+Foundation<br/>
+SPM with 5 credits / O Level with 5 Grade C / UEC with 3 Grade B or equivalent qualification<br/>
+Diploma<br/>
+SPM with 3 credits / O Level with 3 Grade C / UEC with 3 Grade B or equivalent qualification<br/>
+Bachelor Degree<br/>
+STPM with 2 principal pass / A Level with 2 Grade D / UEC with 5 Grade B or equivalent qualification</template>
+</category>
+
+<category intent="EntryRequirement">
+  <pattern>ENTRY CRITERIA</pattern>
+  <template>The general minimum entry requirements are as follows:-<br/>
+Foundation<br/>
+SPM with 5 credits / O Level with 5 Grade C / UEC with 3 Grade B or equivalent qualification<br/>
+Diploma<br/>
+SPM with 3 credits / O Level with 3 Grade C / UEC with 3 Grade B or equivalent qualification<br/>
+Bachelor Degree<br/>
+STPM with 2 principal pass / A Level with 2 Grade D / UEC with 5 Grade B or equivalent qualification</template>
+</category>
+
+<category intent="EntryRequirement">
+  <pattern>ADMISSION REQUIREMENT</pattern>
+  <template>The general minimum entry requirements are as follows:-<br/>
+Foundation<br/>
+SPM with 5 credits / O Level with 5 Grade C / UEC with 3 Grade B or equivalent qualification<br/>
+Diploma<br/>
+SPM with 3 credits / O Level with 3 Grade C / UEC with 3 Grade B or equivalent qualification<br/>
+Bachelor Degree<br/>
+STPM with 2 principal pass / A Level with 2 Grade D / UEC with 5 Grade B or equivalent qualification</template>
+</category>
+
+<category intent="EntryRequirement">
+  <pattern>WHAT GRADES NEEDED</pattern>
+  <template>The general minimum entry requirements are as follows:-<br/>
+Foundation<br/>
+SPM with 5 credits / O Level with 5 Grade C / UEC with 3 Grade B or equivalent qualification<br/>
+Diploma<br/>
+SPM with 3 credits / O Level with 3 Grade C / UEC with 3 Grade B or equivalent qualification<br/>
+Bachelor Degree<br/>
+STPM with 2 principal pass / A Level with 2 Grade D / UEC with 5 Grade B or equivalent qualification</template>
+</category>
+
+<category intent="EntryRequirement">
+  <pattern>ELIGIBILITY TO JOIN</pattern>
+  <template>The general minimum entry requirements are as follows:-<br/>
+Foundation<br/>
+SPM with 5 credits / O Level with 5 Grade C / UEC with 3 Grade B or equivalent qualification<br/>
+Diploma<br/>
+SPM with 3 credits / O Level with 3 Grade C / UEC with 3 Grade B or equivalent qualification<br/>
+Bachelor Degree<br/>
+STPM with 2 principal pass / A Level with 2 Grade D / UEC with 5 Grade B or equivalent qualification</template>
+</category>
+
+<category intent="EntryRequirement">
+  <pattern>BASIC REQUIREMENT</pattern>
+  <template>The general minimum entry requirements are as follows:-<br/>
+Foundation<br/>
+SPM with 5 credits / O Level with 5 Grade C / UEC with 3 Grade B or equivalent qualification<br/>
+Diploma<br/>
+SPM with 3 credits / O Level with 3 Grade C / UEC with 3 Grade B or equivalent qualification<br/>
+Bachelor Degree<br/>
+STPM with 2 principal pass / A Level with 2 Grade D / UEC with 5 Grade B or equivalent qualification</template>
+</category>
+
+<category intent="EntryRequirement">
+  <pattern>WHAT DO I NEED TO QUALIFY</pattern>
+  <template>The general minimum entry requirements are as follows:-<br/>
+Foundation<br/>
+SPM with 5 credits / O Level with 5 Grade C / UEC with 3 Grade B or equivalent qualification<br/>
+Diploma<br/>
+SPM with 3 credits / O Level with 3 Grade C / UEC with 3 Grade B or equivalent qualification<br/>
+Bachelor Degree<br/>
+STPM with 2 principal pass / A Level with 2 Grade D / UEC with 5 Grade B or equivalent qualification</template>
+</category>
+
+<category intent="EntryRequirement">
+  <pattern>WHAT ARE REQUIREMENTS</pattern>
+  <template>The general minimum entry requirements are as follows:-<br/>
+Foundation<br/>
+SPM with 5 credits / O Level with 5 Grade C / UEC with 3 Grade B or equivalent qualification<br/>
+Diploma<br/>
+SPM with 3 credits / O Level with 3 Grade C / UEC with 3 Grade B or equivalent qualification<br/>
+Bachelor Degree<br/>
+STPM with 2 principal pass / A Level with 2 Grade D / UEC with 5 Grade B or equivalent qualification</template>
+</category>
+
+<category intent="EntryRequirement">
+  <pattern>MINIMUM MARKS REQUIRED</pattern>
+  <template>The general minimum entry requirements are as follows:-<br/>
+Foundation<br/>
+SPM with 5 credits / O Level with 5 Grade C / UEC with 3 Grade B or equivalent qualification<br/>
+Diploma<br/>
+SPM with 3 credits / O Level with 3 Grade C / UEC with 3 Grade B or equivalent qualification<br/>
+Bachelor Degree<br/>
+STPM with 2 principal pass / A Level with 2 Grade D / UEC with 5 Grade B or equivalent qualification</template>
+</category>
+
+</aiml>

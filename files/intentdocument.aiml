@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category intent="document">
+    <pattern>DOCUMENTS NEEDED AT THE TIME OF ADMISSION</pattern>
+    <template>
+      1) MyKad (front and back)<br/>
+      2) STPM/ A Level/ UEC/ equivalent results<br/>
+      3) MUET/ IELTS/ TOEFL results<br/>
+      4) SPM Ulangan results<br/>
+      5) SPM results<br/>
+      6) O Level/equivalent results<br/>
+      7) Portfolio<br/>
+      8) Medical Report/Letter<br/>
+      9) Certificate of Awards / Completion Letter<br/>
+      10) Official Academic Transcript / Examination Results<br/>
+      11) Programme Structure and Syllabi/Course Outline<br/>
+      12) Salinan Cetakan Akreditasi MQA / Recognition of Programme
+    </template>
+  </category>
+
+  <category intent="document">
+    <pattern>WHAT PAPERS TO BRING FOR ADMISSION</pattern>
+    <template>
+      1) MyKad (front and back)<br/>
+      2) STPM/ A Level/ UEC/ equivalent results<br/>
+      3) MUET/ IELTS/ TOEFL results<br/>
+      4) SPM Ulangan results<br/>
+      5) SPM results<br/>
+      6) O Level/equivalent results<br/>
+      7) Portfolio<br/>
+      8) Medical Report/Letter<br/>
+      9) Certificate of Awards / Completion Letter<br/>
+      10) Official Academic Transcript / Examination Results<br/>
+      11) Programme Structure and Syllabi/Course Outline<br/>
+      12) Salinan Cetakan Akreditasi MQA / Recognition of Programme
+    </template>
+  </category>
+
+  <category intent="document">
+    <pattern>ADMISSION REQUIRED DOCUMENTS</pattern>
+    <template>
+      1) MyKad (front and back)<br/>
+      2) STPM/ A Level/ UEC/ equivalent results<br/>
+      3) MUET/ IELTS/ TOEFL results<br/>
+      4) SPM Ulangan results<br/>
+      5) SPM results<br/>
+      6) O Level/equivalent results<br/>
+      7) Portfolio<br/>
+      8) Medical Report/Letter<br/>
+      9) Certificate of Awards / Completion Letter<br/>
+      10) Official Academic Transcript / Examination Results<br/>
+      11) Programme Structure and Syllabi/Course Outline<br/>
+      12) Salinan Cetakan Akreditasi MQA / Recognition of Programme
+    </template>
+  </category>
+
+  <category intent="document">
+    <pattern>WHICH DOCUMENTS ARE REQUIRED</pattern>
+    <template>
+      1) MyKad (front and back)<br/>
+      2) STPM/ A Level/ UEC/ equivalent results<br/>
+      3) MUET/ IELTS/ TOEFL results<br/>
+      4) SPM Ulangan results<br/>
+      5) SPM results<br/>
+      6) O Level/equivalent results<br/>
+      7) Portfolio<br/>
+      8) Medical Report/Letter<br/>
+      9) Certificate of Awards / Completion Letter<br/>
+      10) Official Academic Transcript / Examination Results<br/>
+      11) Programme Structure and Syllabi/Course Outline<br/>
+      12) Salinan Cetakan Akreditasi MQA / Recognition of Programme
+    </template>
+  </category>
+
+  <category intent="document">
+    <pattern>PAPERS NEEDED</pattern>
+    <template>
+      1) MyKad (front and back)<br/>
+      2) STPM/ A Level/ UEC/ equivalent results<br/>
+      3) MUET/ IELTS/ TOEFL results<br/>
+      4) SPM Ulangan results<br/>
+      5) SPM results<br/>
+      6) O Level/equivalent results<br/>
+      7) Portfolio<br/>
+      8) Medical Report/Letter<br/>
+      9) Certificate of Awards / Completion Letter<br/>
+      10) Official Academic Transcript / Examination Results<br/>
+      11) Programme Structure and Syllabi/Course Outline<br/>
+      12) Salinan Cetakan Akreditasi MQA / Recognition of Programme
+    </template>
+  </category>
+
+  <category intent="document">
+    <pattern>WHAT DO I NEED FOR ADMISSION</pattern>
+    <template>
+      1) MyKad (front and back)<br/>
+      2) STPM/ A Level/ UEC/ equivalent results<br/>
+      3) MUET/ IELTS/ TOEFL results<br/>
+      4) SPM Ulangan results<br/>
+      5) SPM results<br/>
+      6) O Level/equivalent results<br/>
+      7) Portfolio<br/>
+      8) Medical Report/Letter<br/>
+      9) Certificate of Awards / Completion Letter<br/>
+      10) Official Academic Transcript / Examination Results<br/>
+      11) Programme Structure and Syllabi/Course Outline<br/>
+      12) Salinan Cetakan Akreditasi MQA / Recognition of Programme
+    </template>
+  </category>
+
+  <category intent="document">
+    <pattern>PROVIDE ADMISSION DOCS</pattern>
+    <template>
+      1) MyKad (front and back)<br/>
+      2) STPM/ A Level/ UEC/ equivalent results<br/>
+      3) MUET/ IELTS/ TOEFL results<br/>
+      4) SPM Ulangan results<br/>
+      5) SPM results<br/>
+      6) O Level/equivalent results<br/>
+      7) Portfolio<br/>
+      8) Medical Report/Letter<br/>
+      9) Certificate of Awards / Completion Letter<br/>
+      10) Official Academic Transcript / Examination Results<br/>
+      11) Programme Structure and Syllabi/Course Outline<br/>
+      12) Salinan Cetakan Akreditasi MQA / Recognition of Programme
+    </template>
+  </category>
+
+  <category intent="document">
+    <pattern>WHICH CERTIFICATES REQUIRED</pattern>
+    <template>
+      1) MyKad (front and back)<br/>
+      2) STPM/ A Level/ UEC/ equivalent results<br/>
+      3) MUET/ IELTS/ TOEFL results<br/>
+      4) SPM Ulangan results<br/>
+      5) SPM results<br/>
+      6) O Level/equivalent results<br/>
+      7) Portfolio<br/>
+      8) Medical Report/Letter<br/>
+      9) Certificate of Awards / Completion Letter<br/>
+      10) Official Academic Transcript / Examination Results<br/>
+      11) Programme Structure and Syllabi/Course Outline<br/>
+      12) Salinan Cetakan Akreditasi MQA / Recognition of Programme
+    </template>
+  </category>
+
+  <category intent="document">
+    <pattern>NEEDED ITEMS FOR ADMISSION</pattern>
+    <template>
+      1) MyKad (front and back)<br/>
+      2) STPM/ A Level/ UEC/ equivalent results<br/>
+      3) MUET/ IELTS/ TOEFL results<br/>
+      4) SPM Ulangan results<br/>
+      5) SPM results<br/>
+      6) O Level/equivalent results<br/>
+      7) Portfolio<br/>
+      8) Medical Report/Letter<br/>
+      9) Certificate of Awards / Completion Letter<br/>
+      10) Official Academic Transcript / Examination Results<br/>
+      11) Programme Structure and Syllabi/Course Outline<br/>
+      12) Salinan Cetakan Akreditasi MQA / Recognition of Programme
+    </template>
+  </category>
+
+  <category intent="document">
+    <pattern>ADMISSION PAPERWORK</pattern>
+    <template>
+      1) MyKad (front and back)<br/>
+      2) STPM/ A Level/ UEC/ equivalent results<br/>
+      3) MUET/ IELTS/ TOEFL results<br/>
+      4) SPM Ulangan results<br/>
+      5) SPM results<br/>
+      6) O Level/equivalent results<br/>
+      7) Portfolio<br/>
+      8) Medical Report/Letter<br/>
+      9) Certificate of Awards / Completion Letter<br/>
+      10) Official Academic Transcript / Examination Results<br/>
+      11) Programme Structure and Syllabi/Course Outline<br/>
+      12) Salinan Cetakan Akreditasi MQA / Recognition of Programme
+    </template>
+  </category>
+
+</aiml>

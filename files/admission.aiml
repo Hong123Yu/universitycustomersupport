@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <category>
+    <pattern>WHAT IS THE PROCESS OF ADMISSION</pattern>
+    <template>Application can also be submitted online through the University's  &lt;a target="_blank" href="LINK OF ADMISSION DOCUMENT"&gt;website&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>WHAT IS THE ADMISSION PROCESS</pattern>
+    <template>Application can also be submitted online through the University's  &lt;a target="_blank" href="LINK OF ADMISSION DOCUMENT"&gt;website&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>HOW TO TAKE ADMISSION IN YOUR COLLEGE</pattern>
+    <template>Application can also be submitted online through the University's  &lt;a target="_blank" href="LINK OF ADMISSION DOCUMENT"&gt;website&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>WHAT IS THE PROCESS FOR ADMISSION</pattern>
+    <template>Application can also be submitted online through the University's  &lt;a target="_blank" href="LINK OF ADMISSION DOCUMENT"&gt;website&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>ADMISSION</pattern>
+    <template>Application can also be submitted online through the University's  &lt;a target="_blank" href="LINK OF ADMISSION DOCUMENT"&gt;website&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>ADMISSION PROCESS</pattern>
+    <template>Application can also be submitted online through the University's  &lt;a target="_blank" href="LINK OF ADMISSION DOCUMENT"&gt;website&lt;/a&gt;</template>
+  </category>
+
+</aiml>

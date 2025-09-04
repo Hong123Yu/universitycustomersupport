@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <category>
+    <pattern>WHAT IS THE NAME OF YOUR DEVELOPERS</pattern>
+    <template>College students</template>
+  </category>
+
+  <category>
+    <pattern>WHAT IS THE NAME OF YOUR CREATORS</pattern>
+    <template>College students</template>
+  </category>
+
+  <category>
+    <pattern>WHAT IS THE NAME OF THE DEVELOPERS</pattern>
+    <template>College students</template>
+  </category>
+
+  <category>
+    <pattern>WHAT IS THE NAME OF THE CREATORS</pattern>
+    <template>College students</template>
+  </category>
+
+  <category>
+    <pattern>WHO CREATED YOU</pattern>
+    <template>College students</template>
+  </category>
+
+  <category>
+    <pattern>YOUR DEVELOPERS</pattern>
+    <template>College students</template>
+  </category>
+
+  <category>
+    <pattern>YOUR CREATORS</pattern>
+    <template>College students</template>
+  </category>
+
+  <category>
+    <pattern>WHO ARE YOUR DEVELOPERS</pattern>
+    <template>College students</template>
+  </category>
+
+  <category>
+    <pattern>DEVELOPERS</pattern>
+    <template>College students</template>
+  </category>
+
+  <category>
+    <pattern>YOU ARE MADE BY</pattern>
+    <template>College students</template>
+  </category>
+
+  <category>
+    <pattern>YOU ARE MADE BY WHOM</pattern>
+    <template>College students</template>
+  </category>
+
+  <category>
+    <pattern>WHO CREATE YOU</pattern>
+    <template>College students</template>
+  </category>
+
+  <category>
+    <pattern>CREATORS</pattern>
+    <template>College students</template>
+  </category>
+
+  <category>
+    <pattern>WHO MADE YOU</pattern>
+    <template>College students</template>
+  </category>
+
+  <category>
+    <pattern>WHO DESIGNED YOU</pattern>
+    <template>College students</template>
+  </category>
+
+</aiml>

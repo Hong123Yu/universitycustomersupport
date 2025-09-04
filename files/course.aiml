@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <!-- Course Information -->
+  <category>
+    <pattern>list of courses</pattern>
+    <template>Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.</template>
+  </category>
+
+  <category>
+    <pattern>list of courses offered</pattern>
+    <template>Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.</template>
+  </category>
+
+  <category>
+    <pattern>list of courses offered in</pattern>
+    <template>Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.</template>
+  </category>
+
+  <category>
+    <pattern>what are the courses offered in your college</pattern>
+    <template>Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.</template>
+  </category>
+
+  <category>
+    <pattern>courses</pattern>
+    <template>Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.</template>
+  </category>
+
+  <category>
+    <pattern>courses offered</pattern>
+    <template>Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.</template>
+  </category>
+
+  <category>
+    <pattern>courses offered in (your univrsity(UNI) name)</pattern>
+    <template>Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.</template>
+  </category>
+
+  <category>
+    <pattern>courses you offer</pattern>
+    <template>Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.</template>
+  </category>
+
+  <category>
+    <pattern>branches</pattern>
+    <template>Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.</template>
+  </category>
+
+  <category>
+    <pattern>courses available at UNI</pattern>
+    <template>Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.</template>
+  </category>
+
+  <category>
+    <pattern>branches available at your college</pattern>
+    <template>Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.</template>
+  </category>
+
+  <category>
+    <pattern>what are the courses in UNI</pattern>
+    <template>Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.</template>
+  </category>
+
+  <category>
+    <pattern>what are branches in UNI</pattern>
+    <template>Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.</template>
+  </category>
+
+  <category>
+    <pattern>what are courses in UNI</pattern>
+    <template>Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.</template>
+  </category>
+
+  <category>
+    <pattern>branches available in UNI</pattern>
+    <template>Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.</template>
+  </category>
+
+  <category>
+    <pattern>can you tell me the courses available in UNI</pattern>
+    <template>Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.</template>
+  </category>
+
+  <category>
+    <pattern>can you tell me the branches available in UNI</pattern>
+    <template>Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.</template>
+  </category>
+
+  <category>
+    <pattern>computer engineering</pattern>
+    <template>Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.</template>
+  </category>
+
+  <category>
+    <pattern>computer</pattern>
+    <template>Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.</template>
+  </category>
+
+  <category>
+    <pattern>Computer engineering</pattern>
+    <template>Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.</template>
+  </category>
+
+  <category>
+    <pattern>it</pattern>
+    <template>Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.</template>
+  </category>
+
+  <category>
+    <pattern>IT</pattern>
+    <template>Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.</template>
+  </category>
+
+  <category>
+    <pattern>Information Technology</pattern>
+    <template>Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.</template>
+  </category>
+
+  <category>
+    <pattern>AI/Ml</pattern>
+    <template>Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.</template>
+  </category>
+
+  <category>
+    <pattern>Mechanical engineering</pattern>
+    <template>Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.</template>
+  </category>
+
+  <category>
+    <pattern>Chemical engineering</pattern>
+    <template>Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.</template>
+  </category>
+
+  <category>
+    <pattern>Civil engineering</pattern>
+    <template>Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.</template>
+  </category>
+
+</aiml>

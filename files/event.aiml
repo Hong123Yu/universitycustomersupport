@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <!-- EVENT TAG -->
+  <category>
+    <pattern>EVENTS ORGANISED</pattern>
+    <template>For event detail visit &lt;a target="_blank" href="ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>LIST OF EVENTS</pattern>
+    <template>For event detail visit &lt;a target="_blank" href="ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>LIST OF EVENTS ORGANISED IN COLLEGE</pattern>
+    <template>For event detail visit &lt;a target="_blank" href="ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>LIST OF EVENTS CONDUCTED IN COLLEGE</pattern>
+    <template>For event detail visit &lt;a target="_blank" href="ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>WHAT EVENTS ARE CONDUCTED IN COLLEGE</pattern>
+    <template>For event detail visit &lt;a target="_blank" href="ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>ARE THERE ANY EVENT HELD AT COLLEGE</pattern>
+    <template>For event detail visit &lt;a target="_blank" href="ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>EVENTS</pattern>
+    <template>For event detail visit &lt;a target="_blank" href="ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>FUNCTIONS</pattern>
+    <template>For event detail visit &lt;a target="_blank" href="ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>WHAT ARE THE EVENTS</pattern>
+    <template>For event detail visit &lt;a target="_blank" href="ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>TELL ME ABOUT EVENTS</pattern>
+    <template>For event detail visit &lt;a target="_blank" href="ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>WHAT ABOUT EVENTS</pattern>
+    <template>For event detail visit &lt;a target="_blank" href="ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE"&gt; here&lt;/a&gt;</template>
+  </category>
+
+</aiml>

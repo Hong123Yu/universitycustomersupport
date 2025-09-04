@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <!-- COMMITTEE TAG -->
+  <category>
+    <pattern>WHAT ARE THE DIFFERENT COMMITTE IN COLLEGE</pattern>
+    <template>For the various committe in college contact this number: ADD NUMBER</template>
+  </category>
+
+  <category>
+    <pattern>DIFFERENT COMMITTEE IN COLLEGE</pattern>
+    <template>For the various committe in college contact this number: ADD NUMBER</template>
+  </category>
+
+  <category>
+    <pattern>ARE THERE ANY COMMITTEE IN COLLEGE</pattern>
+    <template>For the various committe in college contact this number: ADD NUMBER</template>
+  </category>
+
+  <category>
+    <pattern>GIVE ME COMMITTEE DETAILS</pattern>
+    <template>For the various committe in college contact this number: ADD NUMBER</template>
+  </category>
+
+  <category>
+    <pattern>COMMITTEE</pattern>
+    <template>For the various committe in college contact this number: ADD NUMBER</template>
+  </category>
+
+  <category>
+    <pattern>HOW MANY COMMITTEE ARE THERE IN COLLEGE</pattern>
+    <template>For the various committe in college contact this number: ADD NUMBER</template>
+  </category>
+
+</aiml>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <!-- TASK TAG -->
+  <category>
+    <pattern>WHAT CAN YOU DO</pattern>
+    <template>
+      <random>
+        <li>I can answer to low-intermediate questions regarding college</li>
+        <li>You can ask me questions regarding college, and i will try to answer them</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>WHAT ARE THE THING YOU CAN DO</pattern>
+    <template>
+      <random>
+        <li>I can answer to low-intermediate questions regarding college</li>
+        <li>You can ask me questions regarding college, and i will try to answer them</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>THINGS YOU CAN DO</pattern>
+    <template>
+      <random>
+        <li>I can answer to low-intermediate questions regarding college</li>
+        <li>You can ask me questions regarding college, and i will try to answer them</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>WHAT CAN U DO FOR ME</pattern>
+    <template>
+      <random>
+        <li>I can answer to low-intermediate questions regarding college</li>
+        <li>You can ask me questions regarding college, and i will try to answer them</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>HOW U CAN HELP ME</pattern>
+    <template>
+      <random>
+        <li>I can answer to low-intermediate questions regarding college</li>
+        <li>You can ask me questions regarding college, and i will try to answer them</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>WHY I SHOULD USE YOU</pattern>
+    <template>
+      <random>
+        <li>I can answer to low-intermediate questions regarding college</li>
+        <li>You can ask me questions regarding college, and i will try to answer them</li>
+      </random>
+    </template>
+  </category>
+
+</aiml>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	  <category intent="CampusHours">
+    <pattern>WHAT IS COLLEGE TIMING</pattern>
+    <template>TAR UMT campus is generally open Monday-Saturday from around 6:30 am to 10:00 pm, with specific gate hours varying by location, such as Gate 4 (CECE) at 6:30 am and Gate 3 (Red Bricks) at 7:00 am.</template>
+  </category>
+  <category intent="CampusHours">
+    <pattern>WHEN DOES CAMPUS OPEN</pattern>
+    <template>TAR UMT campus is generally open Monday-Saturday from around 6:30 am to 10:00 pm, with specific gate hours varying by location, such as Gate 4 (CECE) at 6:30 am and Gate 3 (Red Bricks) at 7:00 am.</template>
+  </category>
+  <category intent="CampusHours">
+    <pattern>CAMPUS HOURS</pattern>
+    <template>TAR UMT campus is generally open Monday-Saturday from around 6:30 am to 10:00 pm, with specific gate hours varying by location, such as Gate 4 (CECE) at 6:30 am and Gate 3 (Red Bricks) at 7:00 am.</template>
+  </category>
+  <category intent="CampusHours">
+    <pattern>WHAT ARE TAR UMT OPENING HOURS</pattern>
+    <template>TAR UMT campus is generally open Monday-Saturday from around 6:30 am to 10:00 pm, with specific gate hours varying by location, such as Gate 4 (CECE) at 6:30 am and Gate 3 (Red Bricks) at 7:00 am.</template>
+  </category>
+  <category intent="CampusHours">
+    <pattern>UNIVERSITY OPERATION HOURS</pattern>
+    <template>TAR UMT campus is generally open Monday-Saturday from around 6:30 am to 10:00 pm, with specific gate hours varying by location, such as Gate 4 (CECE) at 6:30 am and Gate 3 (Red Bricks) at 7:00 am.</template>
+  </category>
+  <category intent="CampusHours">
+    <pattern>WHEN IS TAR UMT OPEN</pattern>
+    <template>TAR UMT campus is generally open Monday-Saturday from around 6:30 am to 10:00 pm, with specific gate hours varying by location, such as Gate 4 (CECE) at 6:30 am and Gate 3 (Red Bricks) at 7:00 am.</template>
+  </category>
+  <category intent="CampusHours">
+    <pattern>CAMPUS DAILY HOURS</pattern>
+    <template>TAR UMT campus is generally open Monday-Saturday from around 6:30 am to 10:00 pm, with specific gate hours varying by location, such as Gate 4 (CECE) at 6:30 am and Gate 3 (Red Bricks) at 7:00 am.</template>
+  </category>
+  <category intent="CampusHours">
+    <pattern>WHEN DO GATES OPEN</pattern>
+    <template>TAR UMT campus is generally open Monday-Saturday from around 6:30 am to 10:00 pm, with specific gate hours varying by location, such as Gate 4 (CECE) at 6:30 am and Gate 3 (Red Bricks) at 7:00 am.</template>
+  </category>
+  <category intent="CampusHours">
+    <pattern>CAMPUS TIMETABLE</pattern>
+    <template>TAR UMT campus is generally open Monday-Saturday from around 6:30 am to 10:00 pm, with specific gate hours varying by location, such as Gate 4 (CECE) at 6:30 am and Gate 3 (Red Bricks) at 7:00 am.</template>
+  </category>
+  <category intent="CampusHours">
+    <pattern>OPERATING HOURS OF CAMPUS</pattern>
+    <template>TAR UMT campus is generally open Monday-Saturday from around 6:30 am to 10:00 pm, with specific gate hours varying by location, such as Gate 4 (CECE) at 6:30 am and Gate 3 (Red Bricks) at 7:00 am.</template>
+  </category>
+
+</aiml>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <category>
+    <pattern>MORE INFO</pattern>
+    <template>You can contact at: NUMBER</template>
+  </category>
+
+  <category>
+    <pattern>CONTACT INFO</pattern>
+    <template>You can contact at: NUMBER</template>
+  </category>
+
+  <category>
+    <pattern>HOW TO CONTACT COLLEGE</pattern>
+    <template>You can contact at: NUMBER</template>
+  </category>
+
+  <category>
+    <pattern>COLLEGE TELEPHONE NUMBER</pattern>
+    <template>You can contact at: NUMBER</template>
+  </category>
+
+  <category>
+    <pattern>COLLEGE NUMBER</pattern>
+    <template>You can contact at: NUMBER</template>
+  </category>
+
+  <category>
+    <pattern>WHAT IS YOUR CONTACT NO</pattern>
+    <template>You can contact at: NUMBER</template>
+  </category>
+
+  <category>
+    <pattern>CONTACT NUMBER</pattern>
+    <template>You can contact at: NUMBER</template>
+  </category>
+
+  <category>
+    <pattern>HOW TO CALL YOU</pattern>
+    <template>You can contact at: NUMBER</template>
+  </category>
+
+  <category>
+    <pattern>COLLEGE PHONE NO</pattern>
+    <template>You can contact at: NUMBER</template>
+  </category>
+
+  <category>
+    <pattern>HOW CAN I CONTACT YOU</pattern>
+    <template>You can contact at: NUMBER</template>
+  </category>
+
+  <category>
+    <pattern>CAN I GET YOUR PHONE NUMBER</pattern>
+    <template>You can contact at: NUMBER</template>
+  </category>
+
+  <category>
+    <pattern>HOW CAN I CALL YOU</pattern>
+    <template>You can contact at: NUMBER</template>
+  </category>
+
+  <category>
+    <pattern>PHONE NUMBER</pattern>
+    <template>You can contact at: NUMBER</template>
+  </category>
+
+  <category>
+    <pattern>PHONE NO</pattern>
+    <template>You can contact at: NUMBER</template>
+  </category>
+
+  <category>
+    <pattern>CALL</pattern>
+    <template>You can contact at: NUMBER</template>
+  </category>
+
+</aiml>

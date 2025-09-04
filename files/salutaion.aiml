@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <!-- SALUTATION TAG -->
+  <category>
+    <pattern>OKK</pattern>
+    <template>
+      <random>
+        <li>I am glad I helped you</li>
+        <li>welcome, anything else i can assist you with?</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>OKIE</pattern>
+    <template>
+      <random>
+        <li>I am glad I helped you</li>
+        <li>welcome, anything else i can assist you with?</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>NICE WORK</pattern>
+    <template>
+      <random>
+        <li>I am glad I helped you</li>
+        <li>welcome, anything else i can assist you with?</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>WELL DONE</pattern>
+    <template>
+      <random>
+        <li>I am glad I helped you</li>
+        <li>welcome, anything else i can assist you with?</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>GOOD JOB</pattern>
+    <template>
+      <random>
+        <li>I am glad I helped you</li>
+        <li>welcome, anything else i can assist you with?</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>THANKS FOR THE HELP</pattern>
+    <template>
+      <random>
+        <li>I am glad I helped you</li>
+        <li>welcome, anything else i can assist you with?</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>THANK YOU</pattern>
+    <template>
+      <random>
+        <li>I am glad I helped you</li>
+        <li>welcome, anything else i can assist you with?</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>ITS OK</pattern>
+    <template>
+      <random>
+        <li>I am glad I helped you</li>
+        <li>welcome, anything else i can assist you with?</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>THANKS</pattern>
+    <template>
+      <random>
+        <li>I am glad I helped you</li>
+        <li>welcome, anything else i can assist you with?</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>GOOD WORK</pattern>
+    <template>
+      <random>
+        <li>I am glad I helped you</li>
+        <li>welcome, anything else i can assist you with?</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>K</pattern>
+    <template>
+      <random>
+        <li>I am glad I helped you</li>
+        <li>welcome, anything else i can assist you with?</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>OK</pattern>
+    <template>
+      <random>
+        <li>I am glad I helped you</li>
+        <li>welcome, anything else i can assist you with?</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>OKAY</pattern>
+    <template>
+      <random>
+        <li>I am glad I helped you</li>
+        <li>welcome, anything else i can assist you with?</li>
+      </random>
+    </template>
+  </category>
+
+</aiml>

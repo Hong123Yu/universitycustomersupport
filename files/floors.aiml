@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <!-- FLOORS TAG -->
+  <category>
+    <pattern>SIZE OF CAMPUS</pattern>
+    <template>My College has total 2 floors</template>
+  </category>
+
+  <category>
+    <pattern>BUILDING SIZE</pattern>
+    <template>My College has total 2 floors</template>
+  </category>
+
+  <category>
+    <pattern>HOW MANY FLOORS DOES COLLEGE HAVE</pattern>
+    <template>My College has total 2 floors</template>
+  </category>
+
+  <category>
+    <pattern>FLOORS IN COLLEGE</pattern>
+    <template>My College has total 2 floors</template>
+  </category>
+
+  <category>
+    <pattern>HOW TALL IS UNI'S COLLEGE OF ENGINEERING COLLEGE BUILDING</pattern>
+    <template>My College has total 2 floors</template>
+  </category>
+
+  <category>
+    <pattern>FLOORS</pattern>
+    <template>My College has total 2 floors</template>
+  </category>
+
+</aiml>

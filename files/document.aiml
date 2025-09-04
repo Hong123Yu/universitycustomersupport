@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <!-- DOCUMENT TAG -->
+  <category>
+    <pattern>DOCUMENT TO BRING</pattern>
+    <template>To know more about document required visit &lt;a target="_blank" href="ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>DOCUMENTS NEEDED FOR ADMISION</pattern>
+    <template>To know more about document required visit &lt;a target="_blank" href="ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>DOCUMENTS NEEDED AT THE TIME OF ADMISSION</pattern>
+    <template>To know more about document required visit &lt;a target="_blank" href="ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>DOCUMENTS NEEDED DURING ADMISSION</pattern>
+    <template>To know more about document required visit &lt;a target="_blank" href="ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>DOCUMENTS REQUIRED FOR ADMISION</pattern>
+    <template>To know more about document required visit &lt;a target="_blank" href="ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>DOCUMENTS REQUIRED AT THE TIME OF ADMISSION</pattern>
+    <template>To know more about document required visit &lt;a target="_blank" href="ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>DOCUMENTS REQUIRED DURING ADMISSION</pattern>
+    <template>To know more about document required visit &lt;a target="_blank" href="ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>WHAT DOCUMENT ARE REQUIRED FOR ADMISSION</pattern>
+    <template>To know more about document required visit &lt;a target="_blank" href="ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>WHICH DOCUMENT TO BRING FOR ADMISSION</pattern>
+    <template>To know more about document required visit &lt;a target="_blank" href="ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>DOCUMENTS</pattern>
+    <template>To know more about document required visit &lt;a target="_blank" href="ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>WHAT DOCUMENTS DO I NEED</pattern>
+    <template>To know more about document required visit &lt;a target="_blank" href="ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>WHAT DOCUMENTS DO I NEED FOR ADMISSION</pattern>
+    <template>To know more about document required visit &lt;a target="_blank" href="ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>DOCUMENTS NEEDED</pattern>
+    <template>To know more about document required visit &lt;a target="_blank" href="ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE"&gt; here&lt;/a&gt;</template>
+  </category>
+
+</aiml>

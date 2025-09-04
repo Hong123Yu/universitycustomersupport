@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    <!-- Intent: Greet -->
+	 <category intent="Greet">
+    <pattern>HI</pattern>
+    <template>Hi, welcome to TARUMT supportbot , I am TARUMTbot!</template>
+  </category>
+  <category intent="Greet">
+    <pattern>HELLO</pattern>
+    <template>Hi, welcome to TARUMT supportbot , I am TARUMTbot!</template>
+  </category>
+  <category intent="Greet">
+    <pattern>HEY THERE</pattern>
+    <template>Hi, welcome to TARUMT supportbot , I am TARUMTbot!</template>
+  </category>
+  <category intent="Greet">
+    <pattern>GOOD MORNING</pattern>
+    <template>Hi, welcome to TARUMT supportbot , I am TARUMTbot!</template>
+  </category>
+  <category intent="Greet">
+    <pattern>GOOD EVENING</pattern>
+    <template>Hi, welcome to TARUMT supportbot , I am TARUMTbot!</template>
+  </category>
+  <category intent="Greet">
+    <pattern>YO</pattern>
+    <template>Hi, welcome to TARUMT supportbot , I am TARUMTbot!</template>
+  </category>
+  <category intent="Greet">
+    <pattern>HI BOT</pattern>
+    <template>Hi, welcome to TARUMT supportbot , I am TARUMTbot!</template>
+  </category>
+  <category intent="Greet">
+    <pattern>HEY</pattern>
+    <template>Hi, welcome to TARUMT supportbot , I am TARUMTbot!</template>
+  </category>
+  <category intent="Greet">
+    <pattern>GREETINGS</pattern>
+    <template>Hi, welcome to TARUMT supportbot , I am TARUMTbot!</template>
+  </category>
+  <category intent="Greet">
+    <pattern>HELLO THERE</pattern>
+    <template>Hi, welcome to TARUMT supportbot , I am TARUMTbot!</template>
+  </category>
+</aiml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <!-- MENU TAG -->
+  <category>
+    <pattern>FOOD MENU</pattern>
+    <template>we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu</template>
+  </category>
+
+  <category>
+    <pattern>FOOD IN CANTEEN</pattern>
+    <template>we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu</template>
+  </category>
+
+  <category>
+    <pattern>WHATS THERE ON MENU</pattern>
+    <template>we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu</template>
+  </category>
+
+  <category>
+    <pattern>WHAT IS AVAILABLE IN COLLEGE CANTEEN</pattern>
+    <template>we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu</template>
+  </category>
+
+  <category>
+    <pattern>WHAT FOODS CAN WE GET IN COLLEGE CANTEEN</pattern>
+    <template>we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu</template>
+  </category>
+
+  <category>
+    <pattern>FOOD VARIETY</pattern>
+    <template>we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu</template>
+  </category>
+
+  <category>
+    <pattern>WHAT IS THERE TO EAT</pattern>
+    <template>we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu</template>
+  </category>
+
+</aiml>

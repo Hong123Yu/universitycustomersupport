@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <!-- IT HOD TAG -->
+  <category>
+    <pattern>WHO IS HOD</pattern>
+    <template>All engineering departments have only one hod XYZ who available on (Place name)</template>
+  </category>
+
+  <category>
+    <pattern>WHERE IS HOD</pattern>
+    <template>All engineering departments have only one hod XYZ who available on (Place name)</template>
+  </category>
+
+  <category>
+    <pattern>IT HOD</pattern>
+    <template>All engineering departments have only one hod XYZ who available on (Place name)</template>
+  </category>
+
+  <category>
+    <pattern>NAME OF IT HOD</pattern>
+    <template>All engineering departments have only one hod XYZ who available on (Place name)</template>
+  </category>
+
+</aiml>

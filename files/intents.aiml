@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <category>
+    <pattern>HI</pattern>
+    <template>
+      <random>
+        <li>Hello!</li>
+        <li>Good to see you again!</li>
+        <li>Hi there, how can I help?</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>HOW ARE YOU</pattern>
+    <template>
+      <random>
+        <li>Hello!</li>
+        <li>Good to see you again!</li>
+        <li>Hi there, how can I help?</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>IS ANYONE THERE</pattern>
+    <template>
+      <random>
+        <li>Hello!</li>
+        <li>Good to see you again!</li>
+        <li>Hi there, how can I help?</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>HELLO</pattern>
+    <template>
+      <random>
+        <li>Hello!</li>
+        <li>Good to see you again!</li>
+        <li>Hi there, how can I help?</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>GOOD DAY</pattern>
+    <template>
+      <random>
+        <li>Hello!</li>
+        <li>Good to see you again!</li>
+        <li>Hi there, how can I help?</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>WHATS UP</pattern>
+    <template>
+      <random>
+        <li>Hello!</li>
+        <li>Good to see you again!</li>
+        <li>Hi there, how can I help?</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>HOW ARE YA</pattern>
+    <template>
+      <random>
+        <li>Hello!</li>
+        <li>Good to see you again!</li>
+        <li>Hi there, how can I help?</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>HEYY</pattern>
+    <template>
+      <random>
+        <li>Hello!</li>
+        <li>Good to see you again!</li>
+        <li>Hi there, how can I help?</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>WHATSUP</pattern>
+    <template>
+      <random>
+        <li>Hello!</li>
+        <li>Good to see you again!</li>
+        <li>Hi there, how can I help?</li>
+      </random>
+    </template>
+  </category>
+
+</aiml>

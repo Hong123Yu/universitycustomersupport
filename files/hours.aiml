@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <category>
+    <pattern>TIMING OF COLLEGE</pattern>
+    <template>College is open 8am-5pm Monday-Saturday!</template>
+  </category>
+
+  <category>
+    <pattern>WHAT IS COLLEGE TIMING</pattern>
+    <template>College is open 8am-5pm Monday-Saturday!</template>
+  </category>
+
+  <category>
+    <pattern>WORKING DAYS</pattern>
+    <template>College is open 8am-5pm Monday-Saturday!</template>
+  </category>
+
+  <category>
+    <pattern>WHEN ARE YOU GUYS OPEN</pattern>
+    <template>College is open 8am-5pm Monday-Saturday!</template>
+  </category>
+
+  <category>
+    <pattern>WHAT ARE YOUR HOURS</pattern>
+    <template>College is open 8am-5pm Monday-Saturday!</template>
+  </category>
+
+  <category>
+    <pattern>HOURS OF OPERATION</pattern>
+    <template>College is open 8am-5pm Monday-Saturday!</template>  </category>
+
+  <category>
+    <pattern>WHEN IS THE COLLEGE OPEN</pattern>
+    <template>College is open 8am-5pm Monday-Saturday!</template>  </category>
+
+  <category>
+    <pattern>COLLEGE TIMING</pattern>
+    <template>College is open 8am-5pm Monday-Saturday!</template>  </category>
+
+  <category>
+    <pattern>WHAT ABOUT COLLEGE TIMING</pattern>
+    <template>College is open 8am-5pm Monday-Saturday!</template>  </category>
+
+  <category>
+    <pattern>IS COLLEGE OPEN ON SATURDAY</pattern>
+    <template>College is open 8am-5pm Monday-Saturday!</template>  </category>
+
+  <category>
+    <pattern>TELL SOMETHING ABOUT COLLEGE TIMING</pattern>
+    <template>College is open 8am-5pm Monday-Saturday!</template>  </category>
+
+  <category>
+    <pattern>WHAT IS THE COLLEGE HOURS</pattern>
+    <template>College is open 8am-5pm Monday-Saturday!</template>  </category>
+
+  <category>
+    <pattern>WHEN SHOULD I COME TO COLLEGE</pattern>
+    <template>College is open 8am-5pm Monday-Saturday!</template>  </category>
+
+  <category>
+    <pattern>WHEN SHOULD I ATTEND COLLEGE</pattern>
+    <template>College is open 8am-5pm Monday-Saturday!</template>  </category>
+
+  <category>
+    <pattern>WHAT IS MY COLLEGE TIME</pattern>
+    <template>College is open 8am-5pm Monday-Saturday!</template>  </category>
+
+  <category>
+    <pattern>TIMING COLLEGE</pattern>
+    <template>College is open 8am-5pm Monday-Saturday!</template>  </category>
+
+</aiml>

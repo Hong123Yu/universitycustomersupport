@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category intent="ProgramFee">
+  <pattern>HOW MUCH ARE THE PROGRAMME FEES</pattern>
+  <template>For more information on fees, please click (link: https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf)</template>
+</category>
+
+<category intent="ProgramFee">
+  <pattern>PROGRAMME COST</pattern>
+  <template>For more information on fees, please click (link: https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf)</template>
+</category>
+
+<category intent="ProgramFee">
+  <pattern>FEES FOR THE COURSE</pattern>
+  <template>For more information on fees, please click (link: https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf)</template>
+</category>
+
+<category intent="ProgramFee">
+  <pattern>HOW MUCH TO STUDY</pattern>
+  <template>For more information on fees, please click (link: https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf)</template>
+</category>
+
+<category intent="ProgramFee">
+  <pattern>WHAT IS THE TUITION FEE</pattern>
+  <template>For more information on fees, please click (link: https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf)</template>
+</category>
+
+<category intent="ProgramFee">
+  <pattern>TELL ME THE FEES</pattern>
+  <template>For more information on fees, please click (link: https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf)</template>
+</category>
+
+<category intent="ProgramFee">
+  <pattern>COURSE CHARGES</pattern>
+  <template>For more information on fees, please click (link: https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf)</template>
+</category>
+
+<category intent="ProgramFee">
+  <pattern>PROGRAMME CHARGES</pattern>
+  <template>For more information on fees, please click (link: https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf)</template>
+</category>
+
+<category intent="ProgramFee">
+  <pattern>COST STUDY IN TARUMT</pattern>
+  <template>For more information on fees, please click (link: https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf)</template>
+</category>
+
+<category intent="ProgramFee">
+  <pattern>FEE DETAILS</pattern>
+  <template>For more information on fees, please click (link: https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf)</template>
+</category>
+
+</aiml>

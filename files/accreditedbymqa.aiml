@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category intent="AccreditedByMQA">
+    <pattern>ARE TAR UMT PROGRAMMES ACCREDITED BY MQA?</pattern>
+    <template>Yes, our programmes are accredited by MQA. More information can be found at https://www.tarc.edu.my/mqa/index.jsp</template>
+  </category>
+
+  <category intent="AccreditedByMQA">
+    <pattern>IS TAR UMT RECOGNISED BY MQA</pattern>
+    <template>Yes, our programmes are accredited by MQA. More information can be found at https://www.tarc.edu.my/mqa/index.jsp</template>
+  </category>
+
+  <category intent="AccreditedByMQA">
+    <pattern>MQA APPROVAL FOR TAR UMT</pattern>
+    <template>Yes, our programmes are accredited by MQA. More information can be found at https://www.tarc.edu.my/mqa/index.jsp</template>
+  </category>
+
+  <category intent="AccreditedByMQA">
+    <pattern>MQA CERTIFIED</pattern>
+    <template>Yes, our programmes are accredited by MQA. More information can be found at https://www.tarc.edu.my/mqa/index.jsp</template>
+  </category>
+
+  <category intent="AccreditedByMQA">
+    <pattern>ACCREDITATION STATUS</pattern>
+    <template>Yes, our programmes are accredited by MQA. More information can be found at https://www.tarc.edu.my/mqa/index.jsp</template>
+  </category>
+
+  <category intent="AccreditedByMQA">
+    <pattern>ARE COURSES APPROVED BY MQA</pattern>
+    <template>Yes, our programmes are accredited by MQA. More information can be found at https://www.tarc.edu.my/mqa/index.jsp</template>
+  </category>
+
+  <category intent="AccreditedByMQA">
+    <pattern>MQA RECOGNITION</pattern>
+    <template>Yes, our programmes are accredited by MQA. More information can be found at https://www.tarc.edu.my/mqa/index.jsp</template>
+  </category>
+
+  <category intent="AccreditedByMQA">
+    <pattern>DOES MQA ACCREDIT TARUMT</pattern>
+    <template>Yes, our programmes are accredited by MQA. More information can be found at https://www.tarc.edu.my/mqa/index.jsp</template>
+  </category>
+
+  <category intent="AccreditedByMQA">
+    <pattern>MQA STATUS</pattern>
+    <template>Yes, our programmes are accredited by MQA. More information can be found at https://www.tarc.edu.my/mqa/index.jsp</template>
+  </category>
+
+  <category intent="AccreditedByMQA">
+    <pattern>UNIVERSITY ACCREDITED</pattern>
+    <template>Yes, our programmes are accredited by MQA. More information can be found at https://www.tarc.edu.my/mqa/index.jsp</template>
+  </category>
+</aiml>

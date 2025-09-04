@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	  <category intent="AcademicCalendar">
+    <pattern>WHEN WILL SEMESTER STARTS?</pattern>
+    <template>You may find the Academic Calendar at https://www.tarc.edu.my/admissions/new-student/academic-calendar/</template>
+  </category>
+  <category intent="AcademicCalendar">
+    <pattern>WHEN DOES THE NEW TERM BEGIN?</pattern>
+    <template>You may find the Academic Calendar at https://www.tarc.edu.my/admissions/new-student/academic-calendar/</template>
+  </category>
+  <category intent="AcademicCalendar">
+    <pattern>START DATE OF SEMESTER?</pattern>
+    <template>You may find the Academic Calendar at https://www.tarc.edu.my/admissions/new-student/academic-calendar/</template>
+  </category>
+  <category intent="AcademicCalendar">
+    <pattern>WHEN DOES THE SEMESTER COMMENCE?</pattern>
+    <template>You may find the Academic Calendar at https://www.tarc.edu.my/admissions/new-student/academic-calendar/</template>
+  </category>
+  <category intent="AcademicCalendar">
+    <pattern>SEMESTER OPENING?</pattern>
+    <template>You may find the Academic Calendar at https://www.tarc.edu.my/admissions/new-student/academic-calendar/</template>
+  </category>
+  <category intent="AcademicCalendar">
+    <pattern>WHEN IS THE NEW SEMESTER?</pattern>
+    <template>You may find the Academic Calendar at https://www.tarc.edu.my/admissions/new-student/academic-calendar/</template>
+  </category>
+  <category intent="AcademicCalendar">
+    <pattern>ACADEMIC START DATE?</pattern>
+    <template>You may find the Academic Calendar at https://www.tarc.edu.my/admissions/new-student/academic-calendar/</template>
+  </category>
+  <category intent="AcademicCalendar">
+    <pattern>WHEN DOES SCHOOL START?</pattern>
+    <template>You may find the Academic Calendar at https://www.tarc.edu.my/admissions/new-student/academic-calendar/</template>
+  </category>
+  <category intent="AcademicCalendar">
+    <pattern>UNIVERSITY TERM DATES?</pattern>
+    <template>You may find the Academic Calendar at https://www.tarc.edu.my/admissions/new-student/academic-calendar/</template>
+  </category>
+  <category intent="AcademicCalendar">
+    <pattern>START OF CLASSES?</pattern>
+    <template>You may find the Academic Calendar at https://www.tarc.edu.my/admissions/new-student/academic-calendar/</template>
+  </category>
+
+</aiml>

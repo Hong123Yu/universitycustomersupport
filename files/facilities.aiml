@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+
+  <category>
+    <pattern>WHAT FACILITIES COLLEGE PROVIDE</pattern>
+    <template>Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen</template>
+  </category>
+
+  <category>
+    <pattern>COLLEGE FACILITY</pattern>
+    <template>Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen</template>
+  </category>
+
+  <category>
+    <pattern>WHAT ARE COLLEGE FACILITIES</pattern>
+    <template>Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen</template>
+  </category>
+
+  <category>
+    <pattern>FACILITIES</pattern>
+    <template>Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen</template>
+  </category>
+
+  <category>
+    <pattern>FACILITIES PROVIDED</pattern>
+    <template>Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen</template>
+  </category>
+
+</aiml>

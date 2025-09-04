@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+
+  <category>
+    <pattern>MAX NUMBER OF STUDENTS</pattern>
+    <template>For IT, Computer and extc 60 per branch and seat may be differ for different department.</template>
+  </category>
+
+  <category>
+    <pattern>NUMBER OF SEATS PER BRANCH</pattern>
+    <template>For IT, Computer and extc 60 per branch and seat may be differ for different department.</template>
+  </category>
+
+  <category>
+    <pattern>NUMBER OF SEATS IN EACH BRANCH</pattern>
+    <template>For IT, Computer and extc 60 per branch and seat may be differ for different department.</template>
+  </category>
+
+  <category>
+    <pattern>MAXIMUM NUMBER OF SEATS</pattern>
+    <template>For IT, Computer and extc 60 per branch and seat may be differ for different department.</template>
+  </category>
+
+  <category>
+    <pattern>MAXIMUM STUDENTS INTAKE</pattern>
+    <template>For IT, Computer and extc 60 per branch and seat may be differ for different department.</template>
+  </category>
+
+  <category>
+    <pattern>WHAT IS COLLEGE INTAKE</pattern>
+    <template>For IT, Computer and extc 60 per branch and seat may be differ for different department.</template>
+  </category>
+
+  <category>
+    <pattern>HOW MANY STUNDENT ARE TAKEN IN EACH BRANCH</pattern>
+    <template>For IT, Computer and extc 60 per branch and seat may be differ for different department.</template>
+  </category>
+
+  <category>
+    <pattern>SEAT ALLOTMENT</pattern>
+    <template>For IT, Computer and extc 60 per branch and seat may be differ for different department.</template>
+  </category>
+
+  <category>
+    <pattern>SEATS</pattern>
+    <template>For IT, Computer and extc 60 per branch and seat may be differ for different department.</template>
+  </category>
+
+</aiml>

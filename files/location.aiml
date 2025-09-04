@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+    <pattern>WHERE IS THE COLLEGE LOCATED</pattern>
+    <template>&lt;a target="_blank" href="ADD YOU GOOGLE MAP LINK HERE"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>COLLEGE IS LOCATED AT</pattern>
+    <template>&lt;a target="_blank" href="ADD YOU GOOGLE MAP LINK HERE"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>WHERE IS COLLEGE</pattern>
+    <template>&lt;a target="_blank" href="ADD YOU GOOGLE MAP LINK HERE"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>WHERE IS COLLEGE LOCATED</pattern>
+    <template>&lt;a target="_blank" href="ADD YOU GOOGLE MAP LINK HERE"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>ADDRESS OF COLLEGE</pattern>
+    <template>&lt;a target="_blank" href="ADD YOU GOOGLE MAP LINK HERE"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>HOW TO REACH COLLEGE</pattern>
+    <template>&lt;a target="_blank" href="ADD YOU GOOGLE MAP LINK HERE"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>COLLEGE LOCATION</pattern>
+    <template>&lt;a target="_blank" href="ADD YOU GOOGLE MAP LINK HERE"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>COLLEGE ADDRESS</pattern>
+    <template>&lt;a target="_blank" href="ADD YOU GOOGLE MAP LINK HERE"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>WHERES THE COLLEGE</pattern>
+    <template>&lt;a target="_blank" href="ADD YOU GOOGLE MAP LINK HERE"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>HOW CAN I REACH COLLEGE</pattern>
+    <template>&lt;a target="_blank" href="ADD YOU GOOGLE MAP LINK HERE"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>WHATS IS THE COLLEGE ADDRESS</pattern>
+    <template>&lt;a target="_blank" href="ADD YOU GOOGLE MAP LINK HERE"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>WHAT IS THE ADDRESS OF COLLEGE</pattern>
+    <template>&lt;a target="_blank" href="ADD YOU GOOGLE MAP LINK HERE"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>ADDRESS</pattern>
+    <template>&lt;a target="_blank" href="ADD YOU GOOGLE MAP LINK HERE"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>LOCATION</pattern>
+    <template>&lt;a target="_blank" href="ADD YOU GOOGLE MAP LINK HERE"&gt; here&lt;/a&gt;</template>
+</category>
+
+</aiml>

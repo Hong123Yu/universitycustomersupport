@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0" encoding="UTF-8">
+
+  <category>
+    <pattern>HI</pattern>
+    <template>Hi, welcome to TARUMT supportbot!</template>
+  </category>
+
+  <category>
+    <pattern>WHAT ARE PROGRAM OFFERED</pattern>
+    <template>
+      The Bachelor Degree and Diploma programmes offered can be found at:
+      https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/undergraduate-programme/
+    <br/>
+      The Foundation programmes offered can be found at:
+      https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/pre-university-programme/
+    </template>
+  </category>
+  
+  <!-- PROGRAM -->
+<category><pattern>PROGRAM</pattern><template><srai>WHAT ARE PROGRAM OFFERED</srai></template></category>
+<category><pattern>PROGRAM *</pattern><template><srai>WHAT ARE PROGRAM OFFERED</srai></template></category>
+<category><pattern>* PROGRAM</pattern><template><srai>WHAT ARE PROGRAM OFFERED</srai></template></category>
+<category><pattern>* PROGRAM *</pattern><template><srai>WHAT ARE PROGRAM OFFERED</srai></template></category>
+
+<!-- PROGRAMME -->
+<category><pattern>PROGRAMME</pattern><template><srai>WHAT ARE PROGRAM OFFERED</srai></template></category>
+<category><pattern>PROGRAMME *</pattern><template><srai>WHAT ARE PROGRAM OFFERED</srai></template></category>
+<category><pattern>* PROGRAMME</pattern><template><srai>WHAT ARE PROGRAM OFFERED</srai></template></category>
+<category><pattern>* PROGRAMME *</pattern><template><srai>WHAT ARE PROGRAM OFFERED</srai></template></category>
+
+<!-- FOUNDATION -->
+<category><pattern>FOUNDATION</pattern><template><srai>WHAT ARE PROGRAM OFFERED</srai></template></category>
+<category><pattern>FOUNDATION *</pattern><template><srai>WHAT ARE PROGRAM OFFERED</srai></template></category>
+<category><pattern>* FOUNDATION</pattern><template><srai>WHAT ARE PROGRAM OFFERED</srai></template></category>
+<category><pattern>* FOUNDATION *</pattern><template><srai>WHAT ARE PROGRAM OFFERED</srai></template></category>
+
+<!-- DIPLOMA -->
+<category><pattern>DIPLOMA</pattern><template><srai>WHAT ARE PROGRAM OFFERED</srai></template></category>
+<category><pattern>DIPLOMA *</pattern><template><srai>WHAT ARE PROGRAM OFFERED</srai></template></category>
+<category><pattern>* DIPLOMA</pattern><template><srai>WHAT ARE PROGRAM OFFERED</srai></template></category>
+<category><pattern>* DIPLOMA *</pattern><template><srai>WHAT ARE PROGRAM OFFERED</srai></template></category>
+
+<!-- DEGREE -->
+<category><pattern>DEGREE</pattern><template><srai>WHAT ARE PROGRAM OFFERED</srai></template></category>
+<category><pattern>DEGREE *</pattern><template><srai>WHAT ARE PROGRAM OFFERED</srai></template></category>
+<category><pattern>* DEGREE</pattern><template><srai>WHAT ARE PROGRAM OFFERED</srai></template></category>
+<category><pattern>* DEGREE *</pattern><template><srai>WHAT ARE PROGRAM OFFERED</srai></template></category>
+  
+
+
+  <category>
+    <pattern>WHAT IS COLLEGE TIMING</pattern>
+    <template>
+      TAR UMT campus is generally open Monday-Saturday from around 6:30 am to 10:00 pm,
+      with specific gate hours varying by location, such as Gate 4 (CECE) at 6:30 am and
+      Gate 3 (Red Bricks) at 7:00 am.
+    </template>
+  </category>
+  
+  <category>
+  <pattern>TIMING</pattern>
+  <template>
+    <srai>WHAT IS COLLEGE TIMING</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>TIMING *</pattern>
+  <template>
+    <srai>WHAT IS COLLEGE TIMING</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* TIMING</pattern>
+  <template>
+    <srai>WHAT IS COLLEGE TIMING</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* TIMING *</pattern>
+  <template>
+    <srai>WHAT IS COLLEGE TIMING</srai>
+  </template>
+</category>
+
+  <category>
+    <pattern>WHEN WILL SEMESTER STARTS</pattern>
+    <template>
+      You may find the Academic Calendar at:
+      https://www.tarc.edu.my/admissions/new-student/academic-calendar/
+    </template>
+  </category>
+
+  <category>
+    <pattern>DOCUMENTS NEEDED AT THE TIME OF ADMISSION</pattern>
+    <template>
+      1) MyKad (front and back)<br/>
+      2) STPM/ A Level/ UEC/ equivalent results <br/>
+      3) MUET/ IELTS/ TOEFL results <br/>
+      4) SPM Ulangan results <br/>
+      5) SPM results <br/>
+      6) O Level/equivalent results <br/>
+      7) Portfolio <br/>
+      8) Medical Report/Letter<br/> 
+      9) Certificate of Awards / Completion Letter <br/>
+      10) Official Academic Transcript / Examination Results <br/>
+      11) Programme Structure and Syllabi/Course Outline <br/>
+      12) Salinan Cetakan Akreditasi MQA / Recognition of Programme
+    </template>
+  </category>
+
+  <category>
+    <pattern>WHAT IS THE ENTRY REQUIREMENT</pattern>
+    <template>
+      The general minimum entry requirements are as follows:<br/><br/>
+      
+      Foundation: SPM with 5 credits / O Level with 5 Grade C / UEC with 3 Grade B or equivalent qualification<br/><br/>
+      
+      Diploma: SPM with 3 credits / O Level with 3 Grade C / UEC with 3 Grade B or equivalent qualification<br/><br/>
+      
+      Bachelor Degree: STPM with 2 principal pass / A Level with 2 Grade D / UEC with 5 Grade B or equivalent qualification
+    </template>
+  </category>
+
+  <category>
+    <pattern>HOW MUCH ARE THE PROGRAMME FEES</pattern>
+    <template>
+      For more information on fees, please visit:
+      https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf
+    </template>
+  </category>
+  
+  <category><pattern>FEE</pattern><template><srai>HOW MUCH ARE THE PROGRAMME FEES</srai></template></category>
+  <category><pattern>FEES</pattern><template><srai>HOW MUCH ARE THE PROGRAMME FEES</srai></template></category>
+
+  <category><pattern>FEE *</pattern><template><srai>HOW MUCH ARE THE PROGRAMME FEES</srai></template></category>
+  <category><pattern>* FEE</pattern><template><srai>HOW MUCH ARE THE PROGRAMME FEES</srai></template></category>
+  <category><pattern>* FEE *</pattern><template><srai>HOW MUCH ARE THE PROGRAMME FEES</srai></template></category>
+
+  <category><pattern>FEES *</pattern><template><srai>HOW MUCH ARE THE PROGRAMME FEES</srai></template></category>
+  <category><pattern>* FEES</pattern><template><srai>HOW MUCH ARE THE PROGRAMME FEES</srai></template></category>
+  <category><pattern>* FEES *</pattern><template><srai>HOW MUCH ARE THE PROGRAMME FEES</srai></template></category>
+  
+
+  <category>
+    <pattern>HOW MANY TARUMT CAMPUSES ARE THERE</pattern>
+    <template>
+      TAR UMT has 6 campuses; Kuala Lumpur, Penang, Perak, Johor, Pahang and Sabah.
+    </template>
+  </category>
+
+  <category>
+    <pattern>HOW TO PAY</pattern>
+    <template>
+      For guide on payment of fees, please refer to:
+      https://www.tarc.edu.my/bursary/guidelines-on-payment-of-fees/
+    </template>
+  </category>
+
+    <category><pattern>PAY</pattern><template><srai>HOW TO PAY</srai></template></category>
+    <category><pattern>PAY *</pattern><template><srai>HOW TO PAY</srai></template></category>
+    <category><pattern>* PAY</pattern><template><srai>HOW TO PAY</srai></template></category>
+    <category><pattern>* PAY *</pattern><template><srai>HOW TO PAY</srai></template></category>
+
+    <category><pattern>PAYMENT</pattern><template><srai>HOW TO PAY</srai></template></category>
+    <category><pattern>PAYMENT *</pattern><template><srai>HOW TO PAY</srai></template></category>
+    <category><pattern>* PAYMENT</pattern><template><srai>HOW TO PAY</srai></template></category>
+    <category><pattern>* PAYMENT *</pattern><template><srai>HOW TO PAY</srai></template></category>
+
+  <category>
+    <pattern>ANY SCHOLARSHIP</pattern>
+    <template>
+      For information on financial aid (e.g. grants, scholarships, study loans, PTPTN etc), please visit:
+      https://www.tarc.edu.my/dsa/financial-aid/financial-aid/
+    </template>
+  </category>
+  
+  <category><pattern>SCHOLARSHIP</pattern><template><srai>ANY SCHOLARSHIP</srai></template></category>
+  <category><pattern>SCHOLARSHIP *</pattern><template><srai>ANY SCHOLARSHIP</srai></template></category>
+ <category><pattern>* SCHOLARSHIP</pattern><template><srai>ANY SCHOLARSHIP</srai></template></category>
+  <category><pattern>* SCHOLARSHIP *</pattern><template><srai>ANY SCHOLARSHIP</srai></template></category>
+
+  <category><pattern>SCHOLARSHIPS</pattern><template><srai>ANY SCHOLARSHIP</srai></template></category>
+ <category><pattern>SCHOLARSHIPS *</pattern><template><srai>ANY SCHOLARSHIP</srai></template></category>
+ <category><pattern>* SCHOLARSHIPS</pattern><template><srai>ANY SCHOLARSHIP</srai></template></category>
+ <category><pattern>* SCHOLARSHIPS *</pattern><template><srai>ANY SCHOLARSHIP</srai></template></category>
+
+  <category>
+    <pattern>HOW TO APPLY FOR HOSTEL ACCOMMODATION</pattern>
+    <template>
+      You must be a registered student to apply for hostel accommodation.
+      Please click here for more information:
+      https://www.tarc.edu.my/dsa/a/accommodation/accommodation-kl-main-campus/
+    </template>
+  </category>
+  <category><pattern>HOSTEL</pattern><template><srai>HOW TO APPLY FOR HOSTEL ACCOMMODATION</srai></template></category>
+  <category><pattern>HOSTEL *</pattern><template><srai>HOW TO APPLY FOR HOSTEL ACCOMMODATION</srai></template></category>
+  <category><pattern>* HOSTEL</pattern><template><srai>HOW TO APPLY FOR HOSTEL ACCOMMODATION</srai></template></category>
+  <category><pattern>* HOSTEL *</pattern><template><srai>HOW TO APPLY FOR HOSTEL ACCOMMODATION</srai></template></category>
+
+  <category>
+    <pattern>ARE TAR UMT PROGRAMMES ACCREDITED BY MQA</pattern>
+    <template>
+      Yes, our programmes are accredited by MQA. More information can be found at:
+      https://www.tarc.edu.my/mqa/index.jsp
+    </template>
+  </category>
+
+</aiml>

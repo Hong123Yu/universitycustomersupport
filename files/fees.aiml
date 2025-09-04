@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <category>
+    <pattern>information about fee</pattern>
+    <template>For Fee detail visit &lt;a target="_blank" href="https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>information on fee</pattern>
+    <template>For Fee detail visit &lt;a target="_blank" href="https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>tell me the fee</pattern>
+    <template>For Fee detail visit &lt;a target="_blank" href="https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>college fee</pattern>
+    <template>For Fee detail visit &lt;a target="_blank" href="https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>fee per semester</pattern>
+    <template>For Fee detail visit &lt;a target="_blank" href="https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>what is the fee of each semester</pattern>
+    <template>For Fee detail visit &lt;a target="_blank" href="https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>what is the fees of each year</pattern>
+    <template>For Fee detail visit &lt;a target="_blank" href="https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>what is fee</pattern>
+    <template>For Fee detail visit &lt;a target="_blank" href="https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>what is the fees</pattern>
+    <template>For Fee detail visit &lt;a target="_blank" href="https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>how much is the fees</pattern>
+    <template>For Fee detail visit &lt;a target="_blank" href="https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>fees for first year</pattern>
+    <template>For Fee detail visit &lt;a target="_blank" href="https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>fees</pattern>
+    <template>For Fee detail visit &lt;a target="_blank" href="https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>about the fees</pattern>
+    <template>For Fee detail visit &lt;a target="_blank" href="https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>tell me something about the fees</pattern>
+    <template>For Fee detail visit &lt;a target="_blank" href="https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>What is the fees of hostel</pattern>
+    <template>For Fee detail visit &lt;a target="_blank" href="https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>how much is the fees</pattern>
+    <template>For Fee detail visit &lt;a target="_blank" href="https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>hostel fees</pattern>
+    <template>For Fee detail visit &lt;a target="_blank" href="https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>fees for AC room</pattern>
+    <template>For Fee detail visit &lt;a target="_blank" href="https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>fees for non-AC room</pattern>
+    <template>For Fee detail visit &lt;a target="_blank" href="https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>fees for Ac room for girls</pattern>
+    <template>For Fee detail visit &lt;a target="_blank" href="https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>fees for non-Ac room for girls</pattern>
+    <template>For Fee detail visit &lt;a target="_blank" href="https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>fees for Ac room for boys</pattern>
+    <template>For Fee detail visit &lt;a target="_blank" href="https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>fees for non-Ac room for boys</pattern>
+    <template>For Fee detail visit &lt;a target="_blank" href="https://www.tarc.edu.my/files/bursary/79E41FB8-A455-497A-B4BD-ABEBFDF8621F.pdf"&gt; here&lt;/a&gt;</template>
+  </category>
+
+</aiml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <!-- SYLLABUS TAG -->
+  <category>
+    <pattern>SYLLABUS FOR IT</pattern>
+    <template>Timetable provide direct to the students OR To know about syllabus visit &lt;a target="_blank" href="TIMETABLE LINK"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>WHAT IS THE INFORMATION TECHNOLOGY SYLLABUS</pattern>
+    <template>Timetable provide direct to the students OR To know about syllabus visit &lt;a target="_blank" href="TIMETABLE LINK"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>SYLLABUS</pattern>
+    <template>Timetable provide direct to the students OR To know about syllabus visit &lt;a target="_blank" href="TIMETABLE LINK"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>TIMETABLE</pattern>
+    <template>Timetable provide direct to the students OR To know about syllabus visit &lt;a target="_blank" href="TIMETABLE LINK"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>WHAT IS IT SYLLABUS</pattern>
+    <template>Timetable provide direct to the students OR To know about syllabus visit &lt;a target="_blank" href="TIMETABLE LINK"&gt; here&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>WHAT IS NEXT LECTURE</pattern>
+    <template>Timetable provide direct to the students OR To know about syllabus visit &lt;a target="_blank" href="TIMETABLE LINK"&gt; here&lt;/a&gt;</template>
+  </category>
+
+</aiml>

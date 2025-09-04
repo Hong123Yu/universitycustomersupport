@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <category>
+    <pattern>EXAM DATES</pattern>
+    <template>Here is the Academic Calendar  &lt;a target="_blank" href="YOUR ACADEMIC CALENDER"&gt;website&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>EXAM SCHEDULE</pattern>
+    <template>Here is the Academic Calendar  &lt;a target="_blank" href="YOUR ACADEMIC CALENDER"&gt;website&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>WHEN IS SEMESTER EXAM</pattern>
+    <template>Here is the Academic Calendar  &lt;a target="_blank" href="YOUR ACADEMIC CALENDER"&gt;website&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>SEMESTER EXAM TIMETABLE</pattern>
+    <template>Here is the Academic Calendar  &lt;a target="_blank" href="YOUR ACADEMIC CALENDER"&gt;website&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>SEM</pattern>
+    <template>Here is the Academic Calendar  &lt;a target="_blank" href="YOUR ACADEMIC CALENDER"&gt;website&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>SEMESTER</pattern>
+    <template>Here is the Academic Calendar  &lt;a target="_blank" href="YOUR ACADEMIC CALENDER"&gt;website&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>EXAM</pattern>
+    <template>Here is the Academic Calendar  &lt;a target="_blank" href="YOUR ACADEMIC CALENDER"&gt;website&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>WHEN IS EXAM</pattern>
+    <template>Here is the Academic Calendar  &lt;a target="_blank" href="YOUR ACADEMIC CALENDER"&gt;website&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>EXAM TIMETABLE</pattern>
+    <template>Here is the Academic Calendar  &lt;a target="_blank" href="YOUR ACADEMIC CALENDER"&gt;website&lt;/a&gt;</template>
+  </category>
+
+  <category>
+    <pattern>WHEN IS SEMESTER</pattern>
+    <template>Here is the Academic Calendar  &lt;a target="_blank" href="YOUR ACADEMIC CALENDER"&gt;website&lt;/a&gt;</template>
+  </category>
+
+</aiml>

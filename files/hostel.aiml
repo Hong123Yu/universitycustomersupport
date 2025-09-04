@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+    <pattern>HOSTEL FACILITY</pattern>
+    <template>For hostel detail visit &lt;a target="_blank" href="ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>HOSTEL SERVIVE</pattern>
+    <template>For hostel detail visit &lt;a target="_blank" href="ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>HOSTEL LOCATION</pattern>
+    <template>For hostel detail visit &lt;a target="_blank" href="ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>HOSTEL ADDRESS</pattern>
+    <template>For hostel detail visit &lt;a target="_blank" href="ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>HOSTEL FACILITIES</pattern>
+    <template>For hostel detail visit &lt;a target="_blank" href="ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>HOSTEL FEES</pattern>
+    <template>For hostel detail visit &lt;a target="_blank" href="ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>DOES COLLEGE PROVIDE HOSTEL</pattern>
+    <template>For hostel detail visit &lt;a target="_blank" href="ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>IS THERE ANY HOSTEL</pattern>
+    <template>For hostel detail visit &lt;a target="_blank" href="ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>WHERE IS HOSTEL</pattern>
+    <template>For hostel detail visit &lt;a target="_blank" href="ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>DO YOU HAVE HOSTEL</pattern>
+    <template>For hostel detail visit &lt;a target="_blank" href="ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>DO YOU GUYS HAVE HOSTEL</pattern>
+    <template>For hostel detail visit &lt;a target="_blank" href="ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>HOSTEL</pattern>
+    <template>For hostel detail visit &lt;a target="_blank" href="ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>HOSTEL CAPACITY</pattern>
+    <template>For hostel detail visit &lt;a target="_blank" href="ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>WHAT IS THE HOSTEL FEE</pattern>
+    <template>For hostel detail visit &lt;a target="_blank" href="ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>HOW TO GET IN HOSTEL</pattern>
+    <template>For hostel detail visit &lt;a target="_blank" href="ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>WHAT IS THE HOSTEL ADDRESS</pattern>
+    <template>For hostel detail visit &lt;a target="_blank" href="ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>HOW FAR IS HOSTEL FROM COLLEGE</pattern>
+    <template>For hostel detail visit &lt;a target="_blank" href="ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>HOSTEL COLLEGE DISTANCE</pattern>
+    <template>For hostel detail visit &lt;a target="_blank" href="ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>WHERE IS THE HOSTEL</pattern>
+    <template>For hostel detail visit &lt;a target="_blank" href="ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>HOW BIG IS THE HOSTEL</pattern>
+    <template>For hostel detail visit &lt;a target="_blank" href="ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>DISTANCE BETWEEN COLLEGE AND HOSTEL</pattern>
+    <template>For hostel detail visit &lt;a target="_blank" href="ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS"&gt; here&lt;/a&gt;</template>
+</category>
+
+<category>
+    <pattern>DISTANCE BETWEEN HOSTEL AND COLLEGE</pattern>
+    <template>For hostel detail visit &lt;a target="_blank" href="ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS"&gt; here&lt;/a&gt;</template>
+</category>
+
+</aiml>

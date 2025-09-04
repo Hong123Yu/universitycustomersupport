@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <!-- SPORTS TAG -->
+  <category>
+    <pattern>SPORTS AND GAMES</pattern>
+    <template>Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target="_blank" href="/(LINK IF HAVE)">here</a></template>
+  </category>
+
+  <category>
+    <pattern>GIVE SPORTS DETAILS</pattern>
+    <template>Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target="_blank" href="/(LINK IF HAVE)">here</a></template>
+  </category>
+
+  <category>
+    <pattern>SPORTS INFRASTRUCTURE</pattern>
+    <template>Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target="_blank" href="/(LINK IF HAVE)">here</a></template>
+  </category>
+
+  <category>
+    <pattern>SPORTS FACILITIES</pattern>
+    <template>Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target="_blank" href="/(LINK IF HAVE)">here</a></template>
+  </category>
+
+  <category>
+    <pattern>INFORMATION ABOUT SPORTS</pattern>
+    <template>Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target="_blank" href="/(LINK IF HAVE)">here</a></template>
+  </category>
+
+  <category>
+    <pattern>SPORTS ACTIVITIES</pattern>
+    <template>Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target="_blank" href="/(LINK IF HAVE)">here</a></template>
+  </category>
+
+  <category>
+    <pattern>PLEASE PROVIDE SPORTS AND GAMES INFORMATION</pattern>
+    <template>Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target="_blank" href="/(LINK IF HAVE)">here</a></template>
+  </category>
+
+</aiml>

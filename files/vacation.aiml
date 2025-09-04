@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <!-- VACATION TAG -->
+  <category>
+    <pattern>HOLIDAYS</pattern>
+    <template>Academic calender is given to you by your class-soordinators after you join your respective classes</template>
+  </category>
+
+  <category>
+    <pattern>WHEN WILL SEMESTER STARTS</pattern>
+    <template>Academic calender is given to you by your class-soordinators after you join your respective classes</template>
+  </category>
+
+  <category>
+    <pattern>WHEN WILL SEMESTER END</pattern>
+    <template>Academic calender is given to you by your class-soordinators after you join your respective classes</template>
+  </category>
+
+  <category>
+    <pattern>WHEN IS THE HOLIDAYS</pattern>
+    <template>Academic calender is given to you by your class-soordinators after you join your respective classes</template>
+  </category>
+
+  <category>
+    <pattern>LIST OF HOLIDAYS</pattern>
+    <template>Academic calender is given to you by your class-soordinators after you join your respective classes</template>
+  </category>
+
+  <category>
+    <pattern>HOLIDAY IN THESE YEAR</pattern>
+    <template>Academic calender is given to you by your class-soordinators after you join your respective classes</template>
+  </category>
+
+  <category>
+    <pattern>HOLIDAY LIST</pattern>
+    <template>Academic calender is given to you by your class-soordinators after you join your respective classes</template>
+  </category>
+
+  <category>
+    <pattern>ABOUT VACATIONS</pattern>
+    <template>Academic calender is given to you by your class-soordinators after you join your respective classes</template>
+  </category>
+
+  <category>
+    <pattern>ABOUT HOLIDAYS</pattern>
+    <template>Academic calender is given to you by your class-soordinators after you join your respective classes</template>
+  </category>
+
+  <category>
+    <pattern>WHEN IS VACATION</pattern>
+    <template>Academic calender is given to you by your class-soordinators after you join your respective classes</template>
+  </category>
+
+  <category>
+    <pattern>WHEN IS HOLIDAYS</pattern>
+    <template>Academic calender is given to you by your class-soordinators after you join your respective classes</template>
+  </category>
+
+  <category>
+    <pattern>HOW LONG WILL BE THE VACATION</pattern>
+    <template>Academic calender is given to you by your class-soordinators after you join your respective classes</template>
+  </category>
+
+</aiml>

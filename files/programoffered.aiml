@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+  <category intent="ProgramOffered">
+    <pattern>WHAT ARE PROGRAM OFFERED</pattern>
+    <template>The Bachelor Degree and Diploma programmes offered can be found at https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/undergraduate-programme/ The Foundation programmes offered can be found at https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/pre-university-programme/</template>
+  </category>
+  <category intent="ProgramOffered">
+    <pattern>WHICH COURSES ARE AVAILABLE</pattern>
+    <template>The Bachelor Degree and Diploma programmes offered can be found at https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/undergraduate-programme/ The Foundation programmes offered can be found at https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/pre-university-programme/</template>
+  </category>
+  <category intent="ProgramOffered">
+    <pattern>LIST THE PROGRAMMES PLEASE</pattern>
+    <template>The Bachelor Degree and Diploma programmes offered can be found at https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/undergraduate-programme/ The Foundation programmes offered can be found at https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/pre-university-programme/</template>
+  </category>
+  <category intent="ProgramOffered">
+    <pattern>SHOW ME PROGRAMMES</pattern>
+    <template>The Bachelor Degree and Diploma programmes offered can be found at https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/undergraduate-programme/ The Foundation programmes offered can be found at https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/pre-university-programme/</template>
+  </category>
+  <category intent="ProgramOffered">
+    <pattern>TELL ME THE COURSES</pattern>
+    <template>The Bachelor Degree and Diploma programmes offered can be found at https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/undergraduate-programme/ The Foundation programmes offered can be found at https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/pre-university-programme/</template>
+  </category>
+  <category intent="ProgramOffered">
+    <pattern>WHAT COURSES DO YOU OFFER</pattern>
+    <template>The Bachelor Degree and Diploma programmes offered can be found at https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/undergraduate-programme/ The Foundation programmes offered can be found at https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/pre-university-programme/</template>
+  </category>
+  <category intent="ProgramOffered">
+    <pattern >AVAILABLE PROGRAMMES</pattern>
+    <template>The Bachelor Degree and Diploma programmes offered can be found at https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/undergraduate-programme/ The Foundation programmes offered can be found at https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/pre-university-programme/</template>
+  </category>
+  <category intent="ProgramOffered">
+    <pattern>GIVE ME PROGRAMME LIST</pattern>
+    <template>The Bachelor Degree and Diploma programmes offered can be found at https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/undergraduate-programme/ The Foundation programmes offered can be found at https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/pre-university-programme/</template>
+  </category>
+  <category intent="ProgramOffered">
+    <pattern>COURSES OFFERED</pattern>
+    <template>The Bachelor Degree and Diploma programmes offered can be found at https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/undergraduate-programme/ The Foundation programmes offered can be found at https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/pre-university-programme/</template>
+  </category>
+  <category intent="ProgramOffered">
+    <pattern>STUDY OPTIONS</pattern>
+    <template>The Bachelor Degree and Diploma programmes offered can be found at https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/undergraduate-programme/ The Foundation programmes offered can be found at https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/pre-university-programme/</template>
+  </category>
+  
+
+</aiml>
